@@ -1,8 +1,4 @@
 permalink: /:categories/:title/
-exclude:
-- .gitignore
-- README.md
-- _config.yml
 
 prose:
   rooturl: "_posts"
