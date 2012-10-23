@@ -11,3 +11,4 @@ committees:
   link: /committees/#web_and_social
 email: caseygollan@gmail.com
 ---
+Casey likes long walks on the beach and ice cream.

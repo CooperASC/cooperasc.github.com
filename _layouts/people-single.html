@@ -1,12 +1,16 @@
 ---
+body_id: people-single
 layout: people-index
 ---
 
+{% if page.content != null %}
 <section id="bio">
 	<h2>Bio</h2>
-	{{ page.bio }}
+	{{ content }}
 </section>
+{% endif %}
 
+{% if page.committees %}
 <section id="committees">
 	<h2>Committees</h2>
 	<ul>
@@ -15,3 +19,4 @@ layout: people-index
 	{% endfor %}
 	</ul>
 </section>
+{% endif %}

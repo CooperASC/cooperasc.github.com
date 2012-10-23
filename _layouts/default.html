@@ -4,7 +4,7 @@
 	<title>{{ page.title }}</title>
 	<link rel="stylesheet" href="/css/style.css">
 </head>
-<body>
+<body {% if page.body_id %}id="{{ page.body_id }}"{% endif %}>
 {% include nav.html %}
 
 <h1>{{ page.title }}</h1>
