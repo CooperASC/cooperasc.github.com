@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: people-single
 published: true
-permalink: /rachel-appel/
 category: people
 ---
 

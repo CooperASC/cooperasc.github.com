@@ -2,6 +2,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>{{ page.title }}</title>
+	<link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
 {% include nav.html %}
@@ -9,6 +10,7 @@
 <h1>{{ page.title }}</h1>
 
 {{ content }}
+
 <footer>
 	{% if page.prose_url %}
 	Help improve this page by <a href="{{ page.prose_url }}">submitting an edit request</a>.

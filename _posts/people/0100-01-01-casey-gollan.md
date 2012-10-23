@@ -1,8 +1,13 @@
 ---
 title: Casey Gollan
-layout: default
+layout: people-single
 published: true
 category: people
-position: derp
+class: Senior
+committees:
+- name: Board Chairman
+  link: /committees/#board_chairman
+- name: Web and Social
+  link: /committees/#web_and_social
 email: caseygollan@gmail.com
 ---

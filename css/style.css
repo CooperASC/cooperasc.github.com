@@ -1,0 +1,10 @@
+.active {
+	opacity:.5;
+}
+#people ul {
+	margin:0;
+	padding:0;
+}
+#people ul li {
+	display: inline-block;
+}

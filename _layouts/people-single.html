@@ -1,0 +1,17 @@
+---
+layout: people-index
+---
+
+<section id="bio">
+	<h2>Bio</h2>
+	{{ page.bio }}
+</section>
+
+<section id="committees">
+	<h2>Committees</h2>
+	<ul>
+	{% for item in page.committees %}
+		<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+	{% endfor %}
+	</ul>
+</section>
