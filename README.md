@@ -4,6 +4,20 @@ Powered by [Jekyll](http://jekyllrb.com) and hosted by [Github Pages](http://pag
 
 ---
 
+## Editing and Adding to this site
+
+### Clone / Fork / Push / Pull
+
+Anyone who is a [member of student council](https://github.com/CooperASC?tab=members) can directly create and edit any page on this site by cloning the repository and pushing changes back to Github.
+
+### Desktop Git Clients
+
+For those who are still not comfortable with Git's command line interface, Github has decent clients for [Mac](http://mac.github.com) and [Windows](http://windows.github.com) that make cloning, pushing, and pulling a single-button affair.
+
+### Editing content online
+
+If you're just looking to create or edit content, you can [edit the site online with Prose.io](http://prose.io/#CooperASC/cooperasc.github.com). Simply sign into your Github account. Non student council members can also make changes and submit them as patches for review by a student council member through Prose.
+
 ## Ordering posts
 
 Posts in Jekyll are displayed in chronological order according to the date in the post's filename `YYYY-MM-DD-Title.md`. Posts which do not follow this naming convention will not appear on the site. 
