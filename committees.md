@@ -15,7 +15,9 @@ The Admissions Committees set the policies on admissions and recruitment.
 
 The Alumni Committee determines qualifications for admissions.
 
-## The Board Chairman Committee meets with the chairman of the board for more effective discussion.
+## Board Chairman
+
+The Board Chairman Committee meets with the chairman of the board for more effective discussion.
 
 ## Book Fair
 
