@@ -386,12 +386,9 @@ nav a:link, nav a:visited {
   text-decoration:none;
 }
 
-nav#top li {
-  display:inline-block;
-}
-
 .active {
 	opacity:.5;
+  font-weight:bold;
 }
 
 nav#people ul {
@@ -407,4 +404,51 @@ nav#people img {
 }
 #people-single nav#people li {
 	width:100px;
+}
+
+#content {
+  margin:10px;
+}
+
+nav#top {
+  background:#eee;
+}
+
+nav#top li {
+  margin:0;
+  padding:0;
+}
+
+nav#top a:link, nav#top a:visited {
+    padding:10px;
+    background:#eee;
+    margin:0;
+}
+
+@media (max-width: 340px) {
+  nav#top {
+    display:block;
+    width:100%;
+  }
+  nav#top a:link, nav#top a:visited {
+    display:block;
+    border-bottom:1px solid #fff;
+  }
+}
+
+@media (min-width: 340px) {
+  /* code for tablets only */
+  nav#top li {
+    display:inline-block;
+    margin:0;
+  }
+  nav#top li a:link, nav#top li a:visited {
+    display: block;
+    margin:0;
+    border-right:1px solid #fff;
+  }
+}
+
+@media (min-width: 720px) {
+  /* all other code if its not mobile or tablet */
 }

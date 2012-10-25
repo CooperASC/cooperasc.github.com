@@ -8,7 +8,9 @@
 <body {% if page.body_id %}id="{{ page.body_id }}"{% endif %}>
 {% include nav.html %}
 
+<section id="content">
 {{ content }}
+</section>
 
 <footer>
 	{% if page.prose_url %}
