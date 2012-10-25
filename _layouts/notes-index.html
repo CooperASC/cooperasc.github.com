@@ -6,7 +6,7 @@ layout: default
 
 {{ content }}
 
-<ul>
+<ul id="notes-list">
 	{% for item in site.categories.notes reversed %}
 	<li>
 		<a href="{{item.url}}">

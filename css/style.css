@@ -376,13 +376,13 @@ table {
 
 /* COOPER ASC STYLES */
 
-nav ul, body#notes-index ul {
+nav ul, body#notes-index ul#notes-list {
   list-style-type:none;
   margin:0;
   padding:0;
 }
 
-nav a:link, nav a:visited, body#notes-index ul a:link, body#notes-index ul a:visited {
+nav a:link, nav a:visited, body#notes-index ul#notes-list a:link, body#notes-index ul#notes-list a:visited {
   text-decoration:none;
 }
 
@@ -442,31 +442,31 @@ nav#top a:link, nav#top a:visited {
   margin:0;
 }
 
-body#notes-index ul {
+body#notes-index ul#notes-list {
   border-top: 1px solid #eee;
   padding-top:10px;
 }
 
-body#notes-index li {
+body#notes-index ul#notes-list li {
   border-bottom: 1px solid #eee;
   padding-bottom:10px;
 }
 
-body#notes-index ul li .date, body#notes-index ul li .title, body#notes-index ul li .notetaker {
+body#notes-index ul#notes-list li .date, body#notes-index ul#notes-list li .title, body#notes-index ul#notes-list li .notetaker {
   display: block;
 }
 
-body#notes-index ul li .date {
+body#notes-index ul#notes-list li .date {
   color:gray;
 }
 
-body#notes-index ul li .title {
+body#notes-index ul#notes-list li .title {
   font-size:18px;
   font-weight:bold;
   color:black;
 }
 
-body#notes-index ul li .notetaker {
+body#notes-index ul#notes-list li .notetaker {
   color:black;
 }
 
