@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<ul>
+	{% for item in site.categories.notes reversed %}
+	<li><a href="{{item.url}}">{{item.date}} &mdash; {{item.position}}</a></li>
+	{% endfor %}
+</ul>
