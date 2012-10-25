@@ -1,9 +1,9 @@
 ---
 body_id: people-single
-layout: people-index
+layout: default
 ---
 
-<h1><a href="/people">People</a></h1>
+<h1><a href="/people">People</a>: {{page.title}}</h1>
 
 {% if page.content != null %}
 <section id="bio">
@@ -22,3 +22,5 @@ layout: people-index
 	</ul>
 </section>
 {% endif %}
+
+{% include people-nav.html %}
