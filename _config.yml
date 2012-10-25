@@ -15,3 +15,10 @@ prose:
         link: /committees/#committee_hash
       - name: Another Committee Name
         link: /committees/#another_committee_hash
+    _posts/notes: |
+      published: false
+      category: notes
+      layout: notes-single
+      title: Meeting or Event Title
+      authors:
+      - name: Firstname Lastname
