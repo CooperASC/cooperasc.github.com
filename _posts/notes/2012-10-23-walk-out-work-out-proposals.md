@@ -4,6 +4,7 @@ notetaker: Casey Gollan
 
 # SITE STUFF YOU CAN EDIT
 published: true
+prose_url: http://prose.io/#CooperASC/cooperasc.github.com/edit/master/_posts/notes/2012-10-23-walk-out-work-out-proposals.md
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
