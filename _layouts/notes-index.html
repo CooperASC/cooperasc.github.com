@@ -10,9 +10,9 @@ layout: default
 	{% for item in site.categories.notes reversed %}
 	<li>
 		<a href="{{item.url}}">
-			<span>{{item.date | date:"%Y %B %d"}}</span>
-			<span>{{item.title}}</span>
-			<span>{{item.notetaker}}</span>
+			<span class="date">{{item.date | date:"%Y %B %d"}}</span>
+			<span class="title">{{item.title}}</span>
+			<span class="notetaker">{{item.notetaker}}</span>
 		</a>
 	</li>
 	{% endfor %}

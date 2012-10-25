@@ -12,10 +12,10 @@
 {{ content }}
 </section>
 
-<footer>
-	{% if page.prose_url %}
-	Help improve this page by <a href="{{ page.prose_url }}">submitting an edit request</a>.
-	{% endif %}
-</footer>
+{% if page.prose_url %}
+	<footer>
+		Help improve this page by <a href="{{ page.prose_url }}">submitting an edit request</a>.
+	</footer>
+{% endif %}
 </body>
 </html>
