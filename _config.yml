@@ -1,24 +1,30 @@
-permalink: /:categories/:title/
+permalink: pretty
 
 prose:
   rooturl: "_posts"
   metadata: 
     _posts/people: |
-      published: false
-      category: people
-      layout: people-single
+      # ABOUT ME
       title: Firstname Lastname
       class: Senior
-      email: email@cooper.edu
+      email: email@site.com
       committees:
-      - name: Committee Name
-        link: /committees/#committee_hash
-      - name: Another Committee Name
-        link: /committees/#another_committee_hash
+      - name: Committee One
+        link: /committees/#committee_one
+      - name: Committee Two
+        link: /committees/#committee_two
+
+      # SITE STUFF YOU CAN EDIT
+      published: true
+      permalink: /people/firstname-lastname/
+
+      # SITE STUFF YOU SHOULDN'T EDIT
+      layout: people-single
+      category: people
     _posts/notes: |
       published: false
-      category: notes
-      layout: notes-single
       title: Meeting or Event Title
       authors:
       - name: Firstname Lastname
+      category: notes
+      layout: notes-single
