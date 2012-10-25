@@ -374,9 +374,26 @@ table {
     border-spacing: 0;
 }
 
+/* COOPER ASC STYLES */
+
+nav ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+
+nav a:link, nav a:visited {
+  text-decoration:none;
+}
+
+nav#top li {
+  display:inline-block;
+}
+
 .active {
 	opacity:.5;
 }
+
 nav#people ul {
 	margin:0;
 	padding:0;
