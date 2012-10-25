@@ -2,7 +2,8 @@
 # ABOUT ME
 title: Rachel Appel
 class: Senior
-email: rachel.appel@gmail.com
+cooper_email: appel@cooper.edu
+gravatar_email: rachel.appel@gmail.com
 committees:
 - name: Committee One
   link: /committees/#committee_one

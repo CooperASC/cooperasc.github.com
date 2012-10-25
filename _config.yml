@@ -7,7 +7,8 @@ prose:
       # ABOUT ME
       title: Firstname Lastname
       class: Senior
-      email: email@site.com
+      cooper_email: email@cooper.edu
+      gravatar_email: email@whatever.com
       committees:
       - name: Committee One
         link: /committees/#committee_one

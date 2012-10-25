@@ -2,7 +2,8 @@
 # ABOUT ME
 title: Casey Gollan
 class: Senior
-email: caseygollan@gmail.com
+cooper_email: gollan@cooper.edu
+gravatar_email: caseygollan@gmail.com
 committees:
 - name: Board Chairman
   link: /committees/#board_chairman
