@@ -6,6 +6,6 @@ layout: default
 
 <ul>
 	{% for item in site.categories.notes reversed %}
-	<li><a href="{{item.url}}">{{item.date}} &mdash; {{item.position}}</a></li>
+	<li><a href="{{item.url}}">{{item.date}} &mdash; {{item.title}}</a></li>
 	{% endfor %}
 </ul>

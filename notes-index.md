@@ -1,6 +1,6 @@
 ---
 title: Notes
-layout: default
+layout: notes-index
 permalink: /notes/
 body_id: notes-index
 ---
