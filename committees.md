@@ -2,6 +2,7 @@
 title: Committees
 layout: default
 permalink: /committees/
+body_id: committees
 prose_url: http://prose.io/#CooperASC/cooperasc.github.com/edit/master/committees.md
 ---
 ## Academic Standards
