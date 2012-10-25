@@ -1,5 +1,5 @@
 ---
 title: Cooper Union Art Student Council
-layout: default
+layout: index
 body_id: index
 ---

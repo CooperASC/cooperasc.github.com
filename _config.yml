@@ -22,9 +22,13 @@ prose:
       layout: people-single
       category: people
     _posts/notes: |
-      published: false
+      # MEETING OR EVENT INFO
       title: Meeting or Event Title
-      authors:
-      - name: Firstname Lastname
-      category: notes
+      notetaker: Firstname Lastname
+
+      # SITE STUFF YOU CAN EDIT
+      published: true
+
+      # SITE STUFF YOU SHOULDN'T EDIT
       layout: notes-single
+      category: notes

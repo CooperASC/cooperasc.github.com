@@ -6,6 +6,12 @@ layout: default
 
 <ul>
 	{% for item in site.categories.notes reversed %}
-	<li><a href="{{item.url}}">{{item.date}} &mdash; {{item.title}}</a></li>
+	<li>
+		<a href="{{item.url}}">
+			<span>{{item.date | date:"%Y %B %d"}}</span>
+			<span>{{item.title}}</span>
+			<span>{{item.notetaker}}</span>
+		</a>
+	</li>
 	{% endfor %}
 </ul>
