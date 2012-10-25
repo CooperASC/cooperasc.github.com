@@ -32,7 +32,8 @@ category: notes
 	- What is our statement?
 - Involve the freshmen
 - Podium
-- Contact press ahead of time
+	- This is a great idea
+
 - BIG ass message in the windows
 - Align with larger causes
 	- Not only should Cooper be free but for everyone
