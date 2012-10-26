@@ -3,23 +3,19 @@
 title: Kristi Cavataro
 class: Junior
 cooper_email: kcavataro@gmail.com
-gravatar_email: email@whatever.com
+gravatar_email: kcavataro@gmail.com
 committees:
 - name: Admissions
-  link: /committees/#committee_one
-- name: 
-  link: /committees/#committee_two
+  link: /committees/#admissions
 
 # SITE STUFF YOU CAN EDIT
 published: true
-permalink: /people/firstname-lastname/
+permalink: /people/kristi-cavataro/
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: people-single
 category: people
 
 ---
-
-# Kristi Cavataro
 
 Kristi Yamaguchi won the gold medal in the ladies singles figure skating portion of the 1992 winter Olympics in Albertville, France.
