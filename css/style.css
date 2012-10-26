@@ -442,14 +442,18 @@ nav#top a:link, nav#top a:visited {
   margin:0;
 }
 
+hr {
+  border:none;
+  border-top:1px solid #ccc;
+}
+
 body#notes-index ul#notes-list {
   border-top: 1px solid #eee;
-  padding-top:10px;
 }
 
 body#notes-index ul#notes-list li {
   border-bottom: 1px solid #eee;
-  padding-bottom:10px;
+  padding:10px 0;
 }
 
 body#notes-index ul#notes-list li .date, body#notes-index ul#notes-list li .title, body#notes-index ul#notes-list li .notetaker {
