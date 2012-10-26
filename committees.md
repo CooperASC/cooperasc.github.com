@@ -29,7 +29,7 @@ These students are in charge of preparing for the semesterly ESC Book Fair
 
 New York State requires the election of students to serve on a campus wide security committee to enforce state law. The mandate for the committee is: The committee shall review current campus security policies and procedures and make recommendations for their improvement.
 
-## Cirriculum
+## Curriculum
 
 Each of the four faculties has a curriculum committee that decides when to add new courses, eliminate old courses, expand the curriculum in a certain direction, and determines which courses are elective and which required.
 
