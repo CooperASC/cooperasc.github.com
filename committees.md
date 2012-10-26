@@ -9,6 +9,8 @@ prose_url: http://prose.io/#CooperASC/cooperasc.github.com/edit/master/committee
 
 The Academic Standards Committees define the minimum academic performance acceptable to each faculty, review academic performances each semester, and determine whether students are allowed to continue at The Cooper Union or are asked to withdraw for failing to meet these standards. The Academic Standards Committees are also involved in cases involving academic dishonesty.
 
+## Ad Chairs
+
 ## Admissions
 
 The Admissions Committees set the policies on admissions and recruitment.
