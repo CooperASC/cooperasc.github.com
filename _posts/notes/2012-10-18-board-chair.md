@@ -23,13 +23,14 @@ HOWEVER they still don't understand why there is a mistrust amongst the alumni a
 
 According to Mark and Francios, noone but the market is at fault for the current position of the cooper union. 
 
-## ---
+---
+
 **NEW** 
 Every trustee will be invited to future meetings with students. They will not be required to attend but they will be notified of the event. 
 
 **NEW** Two Student Council Reps can be sent to these meetings from each school IN ADDITION to 1 "Student Body Member" tbd by each Student Council
 
-## ---
+---
 
 Documentation from CDG will be released however there will not be an offical report
 
