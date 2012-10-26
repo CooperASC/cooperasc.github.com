@@ -3,7 +3,7 @@
 title: Sebastian Quijada Link
 class: Sophomore
 cooper_email: me@sebasART.com
-gravatar_email: email@whatever.com
+gravatar_email: me@sebasART.com
 committees:
 - name: Ad Chair
   link: /committees/#committee_one
@@ -12,7 +12,7 @@ committees:
 
 # SITE STUFF YOU CAN EDIT
 published: true
-permalink: /people/firstname-lastname/
+permalink: /people/sebastian-quijada-link/
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: people-single
@@ -20,4 +20,4 @@ category: people
 
 ---
 
-# I have joined.
+I have joined.
