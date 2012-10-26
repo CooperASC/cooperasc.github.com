@@ -1,6 +1,6 @@
 ---
 # MEETING OR EVENT INFO
-title: 10-18-12 Meeting with Board Chair, Vice Chair, President and Student Reps
+title: Meeting with Board Chair, Vice Chair, President and Student Reps
 notetaker: Rachel Appel
 
 # SITE STUFF YOU CAN EDIT
