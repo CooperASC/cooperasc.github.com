@@ -2,7 +2,7 @@
 # ABOUT ME
 title: Rachel Appel
 class: Senior
-cooper_email: rachel.appel@gmail.com
+preferred_email: rachel.appel@gmail.com
 gravatar_email: rachel.appel@gmail.com
 committees:
 - name: Curriculum Committee
