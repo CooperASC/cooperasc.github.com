@@ -1,9 +1,9 @@
 ---
 # ABOUT ME
-title: Firstname Lastname
-class: Senior
-cooper_email: email@cooper.edu
-gravatar_email: email@whatever.com
+title: Andy Overton
+class: foundation
+cooper_email: overto@cooper.edu
+gravatar_email: andioverton@yahoo.com
 committees:
 - name: Committee One
   link: /committees/#committee_one
@@ -11,8 +11,8 @@ committees:
   link: /committees/#committee_two
 
 # SITE STUFF YOU CAN EDIT
-published: false
-permalink: /people/firstname-lastname/
+published: true
+permalink: /people/andy-overton/
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: people-single
