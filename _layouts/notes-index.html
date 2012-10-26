@@ -7,7 +7,7 @@ layout: default
 {{ content }}
 
 <ul id="notes-list">
-	{% for item in site.categories.notes reversed %}
+	{% for item in site.categories.notes %}
 	<li>
 		<a href="{{item.url}}">
 			<span class="date">{{item.date | date:"%Y %B %d"}}</span>
