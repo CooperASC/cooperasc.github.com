@@ -11,7 +11,7 @@ committees:
   link: /committees/#committee_two
 
 # SITE STUFF YOU CAN EDIT
-published: true
+published: false
 permalink: /people/firstname-lastname/
 
 # SITE STUFF YOU SHOULDN'T EDIT
