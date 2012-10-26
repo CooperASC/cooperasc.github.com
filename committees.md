@@ -42,10 +42,6 @@ ESC hosts a number of social events over the course of the year, typically 2 big
 
 Similiar to the Curriculum Committee but is specific to the School of Humanities.
 
-## IT
-
-This committee discusses technological changes that will occur at Cooper.
-
 ## Joint Activities
 
 The JAC determines funding for recognized clubs and also has disciplinary power over clubs. Each school elects three representatives and one alternate.
