@@ -21,4 +21,13 @@ layout: people-single
 category: people
 ---
 
-Rachel likes Cooper Union.
+Hey! 
+
+I'm from Florida (yea i went to one of those schools). I've been on student council since my sophomore year and I'm graduating this semester.
+
+I believe in free education.
+
+My studio is on the 5th floor of foundation at the very back, come on by.
+
+xx,
+r
