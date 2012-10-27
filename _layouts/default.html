@@ -11,10 +11,9 @@
 <section id="content">
 {{ content }}
 </section>
-
-{% if page.prose_url %}
+{% if page.filepath %}
 	<footer>
-		Help improve this page by <a href="{{ page.prose_url }}">submitting an edit request</a>.
+		View this <a href="https://github.com/CooperASC/cooperasc.github.com/commits/master/{{ page.filepath }}">page's history on Github</a> and help improve it by <a href="http://prose.io/#CooperASC/cooperasc.github.com/edit/master/{{ page.filepath }}">submitting an edit request</a>.
 	</footer>
 {% endif %}
 </body>
