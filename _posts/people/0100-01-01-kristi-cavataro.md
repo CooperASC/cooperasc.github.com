@@ -2,7 +2,7 @@
 # ABOUT ME
 title: Kristi Cavataro
 class: Junior
-cooper_email: kcavataro@gmail.com
+preferred_email: kcavataro@gmail.com
 gravatar_email: kcavataro@gmail.com
 committees:
 - name: Admissions

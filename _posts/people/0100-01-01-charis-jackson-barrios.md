@@ -2,7 +2,7 @@
 # ABOUT ME
 title: Charis Jackson-Barrios
 class: Freshman
-cooper_email: jackso6@cooper.edu
+preferred_email: jackso6@cooper.edu
 gravatar_email: charis.jacksonbarrios@gmail.com
 
 # SITE STUFF YOU CAN EDIT

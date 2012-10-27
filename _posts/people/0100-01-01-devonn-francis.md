@@ -2,7 +2,7 @@
 # ABOUT ME
 title: DeVonn Francis
 class: sophomore
-cooper_email: devonnfrancis@gmail.com
+preferred_email: devonnfrancis@gmail.com
 gravatar_email: devonnfrancis@gmail.com
 committees:
 - name: Committee One

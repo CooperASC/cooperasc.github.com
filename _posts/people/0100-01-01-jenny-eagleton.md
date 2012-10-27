@@ -2,7 +2,7 @@
 # ABOUT ME
 title: Jenny Eagleton
 class: Senior
-cooper_email: eaglet@cooper.edu
+preferred_email: eaglet@cooper.edu
 gravatar_email: jenny.eagleton@yahoo.com
 committees:
 - name: Humanities

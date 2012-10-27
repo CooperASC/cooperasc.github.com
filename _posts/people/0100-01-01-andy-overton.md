@@ -2,7 +2,7 @@
 # ABOUT ME
 title: Andy Overton
 class: foundation
-cooper_email: overto@cooper.edu
+preferred_email: overto@cooper.edu
 gravatar_email: andioverton@yahoo.com
 committees:
 - name: Committee One
