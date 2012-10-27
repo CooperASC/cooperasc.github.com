@@ -1,6 +1,6 @@
 ---
 # MEETING OR EVENT INFO
-title: 10-26-12 Art Student Body Meeting
+title: Art Student Body Meeting
 notetaker: Rachel Appel
 
 # SITE STUFF YOU CAN EDIT
@@ -104,6 +104,3 @@ The director of Outreach has been asked to model the program as a $$ program. It
 ## Comp-lab printing
 
 The computer labs are currently exploring how to implement charging students for prints, no decisions have been made yet but it seems likely it would only be to cover costs
-
-
-
