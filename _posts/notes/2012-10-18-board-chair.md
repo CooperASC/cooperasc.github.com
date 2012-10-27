@@ -32,7 +32,7 @@ Every trustee will be invited to future meetings with students. They will not be
 
 ---
 
-Documentation from CDG will be released however there will not be an offical report
+Documentation from CDG will be released however there will not be an official report
 
 Rev. Task Force will be releasing their Final Report shortly
 
@@ -44,9 +44,8 @@ Engineers have less objectionable stance toward undergraduate and graduate tuiti
 
 Mark - if the faculty aren't behind a decision, the school can't continue
 
-They believe they've tried for decades to get the schools to come together but they understand they can't dicate what the schools should do so they're letting the schools find their own way, what's best for them
+They believe they've tried for decades to get the schools to come together but they understand they can't dictate what the schools should do so they're letting the schools find their own way, what's best for them
 
 Jamshed supports bringing more tenured faculty on board (this was in response to Che's questions about only having 2 tenured arch faculty)
 
-Jamshed believes the Art Faculty quickly embrassed talking about rev. generating grad programs where the Eng. faculty did not
-
+Jamshed believes the Art Faculty quickly embraced talking about rev. generating grad programs where the Eng. faculty did not
