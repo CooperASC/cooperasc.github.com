@@ -9,6 +9,7 @@ published: true
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
 category: notes
+filepath: _posts/notes/2012-10-26-art-student-body-meeting.md
 ---
 
 ## Dorms

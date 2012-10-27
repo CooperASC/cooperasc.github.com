@@ -9,6 +9,7 @@ published: true
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
 category: notes
+filepath: _posts/notes/2012-10-18-board-chair.md
 ---
 
 people present: Mark Epstien, Francios DeMonil, Jamshed Bharucha, Lawrence Cacciatore, Che Perez, Rachel Appel, Casey Gollan, Mauricio Higuera, Kristov Toth
