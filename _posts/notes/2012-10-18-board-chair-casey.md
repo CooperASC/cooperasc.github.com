@@ -12,24 +12,27 @@ category: notes
 filepath: _posts/notes/2012-10-18-board-chair-casey.md
 ---
 
-Points I wrote down before the meeting:
+Present: [Mark Epstein](http://cooper.edu/about/trustees/mark-epstein), [Francois de Menil](http://cooper.edu/about/trustees/francois-de-menil), [Jamshed Bharucha](http://cooper.edu/about/president-bharucha), [Lawrence Cacciatore](http://cooper.edu/people/lawrence-cacciatore), [Casey Gollan](/people/casey-gollan/) (Art Student Council), [Rachel Appel](/people/rachel-appel/) (Art Student Council), Mauricio Higuera (Art Student), Che Perez (Architecture Student Council), [Kristof Toth](http://esc.cooper.edu/repinfo.php?repname=toth) (Engineering Student Council)
 
-- Tools for accountability
-- How much money does the board give to the school? Is it on par with other institutions?
+***
+
+Before our first meeting I collected some thoughts and questions in writing:
+
+- Discuss how better tools could help the administration _actually_ be accountable
+- Discuss reducing the number of administrators we have and how much they're paid
+- Find out more about board turnover
+- Do you think it's worth paying for education? (Kind of a fluffy question, but I'd like to hear the trustees articulate what is _valuable_ about higher education, in relation to the _price_ it typically commands today.)
+- What happens if the board rejects the hybrid model after it is presented to them by Jamshed on November 15th?
 - Why have there been threats of closure? Especially to faculty and the dean of the engineering school? Is there anything in the school's charter about closure?
-- Rumor: approaching the attorney general to free up restricted funds might jeopardize our arrangement with the Chrysler Building
-- Is it worth paying for education?
-- What happens if the board rejects the hybrid model after it is presented to them by Jamshed on the 15th?
-- Administrative reduction
-- Why did Jamshed Bharucha, president of the school, get added to the board? Is there a conflict of interest?
-- Reputational risk of tuition vs. closure
-- Board turnover
+- What is the reputational risk of implementing tuition vs. closing schools temporarily for a multi-year reinvention?
+- Why did Jamshed Bharucha, president of the school, get added to the board? Isn't that a conflict of interest? (He is supposed to present plans to the Board and _now_ gets to vote on them.)
+- How much money does the board give to the school? Is it on par with other institutions?
+- Can you address a rumor that approaching the attorney general to free up restricted funds from the endowment might jeopardize our arrangement with the Chrysler Building?
 
 ***
 
 - Board of Trustees meets quarterly for about four hours.
-- Mark Epstein says board meetings are "necessarily confidential" because they throw out lots of bad ideas for discussion and don't want misinformation to spread.
-- Cooper is unique in many ways, not governance.
+- In response to Rachel's question about getting a student and faculty seat on the board Mark Epstein says board meetings are "necessarily confidential" because they throw out lots of bad ideas for discussion and don't want misinformation to spread. "Cooper is unique in many ways, not in governance."
 - Not happy with [the Wall Street Journal article](http://online.wsj.com/article/SB124631610981670647.html) because it "downplayed the need for donations". The board has a communications committee
 - Jamshed: "sharing within the family" because posting everything on the internet might jeopardize sensitive negotiations with financial, legal, and philanthropic institutions
 - Mark Epstein: where does the distrust come from?
@@ -50,4 +53,8 @@ Points I wrote down before the meeting:
 - Ché Pérez (Architecture Student Council): Because our model is so unqiue, what if we positioned Cooper at the center of the dialogue on education, and focused on hosting events and programs about education?
 - Mark Epstein: That creates value, yes. But value isn't cash. Value doesn't pay the bills.
 - Mark Epstein: The Board doesn't get involved with curriculum. "Noses in, fingers out." The budget is worked out by the present.
-- Che: School of Architecture only has two tenured faculty. Budget has a direct affect on curriculum.
+- Che: School of Architecture only has two tenured faculty. So budget has a direct affect on curriculum.
+- Jamshed agrees that the school should have more teneured faculty.
+- Lawrence Cacciatore: The board has passion! The level of access we're getting — for example in this meeting — is unprecedented.
+- Casey Gollan: But it's not enough.
+- Mark Epstein: Cooper's Board hired consultants to tell them how they can be a better board. They reccomended changes such as much shorter terms for trustees, so the board reduced them a little bit.
