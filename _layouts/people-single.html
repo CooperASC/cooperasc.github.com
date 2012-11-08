@@ -6,13 +6,6 @@ layout: default
 <h1><a href="/people">People</a>: {{page.title}}</h1>
 
 <article>
-	{% if page.content != null %}
-	<section id="bio">
-		<h2>Bio</h2>
-		{{ content }}
-	</section>
-	{% endif %}
-
 	{% if page.committees %}
 	<section id="committees">
 		<h2>Committees</h2>
@@ -21,6 +14,13 @@ layout: default
 			<li><a href="{{ item.link }}">{{ item.name }}</a></li>
 		{% endfor %}
 		</ul>
+	</section>
+	{% endif %}
+
+	{% if page.content != null %}
+	<section id="bio">
+		<h2>Bio</h2>
+		{{ content }}
 	</section>
 	{% endif %}
 
