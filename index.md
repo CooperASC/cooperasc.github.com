@@ -2,6 +2,7 @@
 title: Cooper Union Art Student Council
 layout: index
 body_id: index
+filepath: index.md
 ---
 ## Communication
 Art Student Council serves to instigate communication between the art student body and the wider community. To accomplish this, Art Student Council must a) both receive factual information and disperse it, b) have a continual and unbiased line of communication with our peers. 
