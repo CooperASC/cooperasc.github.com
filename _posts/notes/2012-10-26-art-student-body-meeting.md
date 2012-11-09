@@ -50,7 +50,7 @@ Saskia made a request to present the hard work of the faculty to the board herse
 
 **Question to Investigate: With Jamshed now being a voting Member of the Board, does that not present a conflict of interest?**
 
-##Friends of Cooper
+## Friends of Cooper
 
 (Henrey Chapman came to speak about the group and their future plans)
 
