@@ -7,8 +7,6 @@ gravatar_email: me@sebasART.com
 committees:
 - name: Ad Chair
   link: /committees/#committee_one
-- name: Committee Two
-  link: /committees/#committee_two
 
 # SITE STUFF YOU CAN EDIT
 published: true
