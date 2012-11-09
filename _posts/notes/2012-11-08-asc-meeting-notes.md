@@ -4,7 +4,7 @@ title: ASC Meeting Notes
 notetaker: DeVonn Francis
 
 # SITE STUFF YOU CAN EDIT
-published: true
+published: false
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
@@ -16,8 +16,8 @@ Present Members:
 DeVonn Francis
 Asher Mones
 Rachel Appel
-Won Ocha
-Sheera
+Won O. Cha
+Shira Service
 Kimberly Yunker
 Andy Overton
 Sebastian Quijada Link
@@ -27,7 +27,7 @@ Kristi Cavataro
 Charis Jackson-Barrios
 
 
-Importance of ASC site to be up in running in terms of communication/ addressing our identity as student council in relation to…
+-importance of ASC site to be up in running in terms of communication/ addressing our identity as student council in relation to…
 Site does not replace conversations it supplements them
 
 -important to add info to sites immediately after meeting and edit periodically thru week
@@ -161,13 +161,3 @@ Talking meeting with faculty and students
 
 Rachel Appel writing email to faculty
 Friday @ 6pm + Sunday @ 4pm 
-
-
-
-
-
-
-
-
-
-Enter Text in Markdown format.
