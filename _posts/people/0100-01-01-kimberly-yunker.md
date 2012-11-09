@@ -12,7 +12,7 @@ committees:
 
 # SITE STUFF YOU CAN EDIT
 published: true
-permalink: /people/firstname-lastname/
+permalink: /people/kimberly-yunker/
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: people-single
