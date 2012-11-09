@@ -60,7 +60,7 @@ The library committee serves as an advisory board to the head librarian. Two rep
 
 The Senate was reconstituted, after a recess of more than a decade, as an advisory and consultative body to the President of Cooper Union. Each of the three Student Councils were asked to elect two representatives:
 
-## Student Services and Affairs 
+## Academic and Student Affairs
 
 ## Survey
 
