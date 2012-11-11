@@ -7,6 +7,10 @@ gravatar_email: kcavataro@gmail.com
 committees:
 - name: Admissions
   link: /committees/#admissions
+- name: Judicial
+  link: /committees/#judicial
+- name: Joint Activities Committee
+  link: /committees/#joint_activities
 
 # SITE STUFF YOU CAN EDIT
 published: true
