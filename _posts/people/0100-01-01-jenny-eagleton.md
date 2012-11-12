@@ -5,10 +5,16 @@ class: Senior
 preferred_email: eaglet@cooper.edu
 gravatar_email: jenny.eagleton@yahoo.com
 committees:
-- name: Humanities
+- name: Ad Chair
+  link: /committees/#Adchair
+- name: Humanities Faculty and curriculum
   link: /committees/#humanities
-- name: Committee Two
-  link: /committees/#committee_two
+- name: Full Faculty
+  link: /committees/#FullFaculty
+  - name: Administrative
+  link: /committees/#SOAadmin
+- name: Commencement speaker
+  link: /committees/#commencementspeaker
 
 # SITE STUFF YOU CAN EDIT
 published: true
