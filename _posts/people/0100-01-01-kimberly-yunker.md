@@ -7,8 +7,6 @@ gravatar_email: kim.yunker@gmail.com
 committees:
 - name: Academic and Student Affairs
   link: /committees/#academic_and_student_affairs
-- name: 
-  link: 
 
 # SITE STUFF YOU CAN EDIT
 published: true
@@ -20,3 +18,4 @@ category: people
 
 ---
 
+Cellar door
