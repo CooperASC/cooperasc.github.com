@@ -54,11 +54,13 @@ A Judicial Appeal Committee, consisting of one dean and two students, is formed 
 
 ## Library
 
-The library committee serves as an advisory board to the head librarian. Two representatives and one alternate are elected from each school.
+The library committee serves as an advisory board to the head librarian. Two representatives and one alternate are elected from each school
 
 ## Senate
 
 The Senate was reconstituted, after a recess of more than a decade, as an advisory and consultative body to the President of Cooper Union. Each of the three Student Councils were asked to elect two representatives:
+
+## Academic and Student Affairs
 
 ## Survey
 

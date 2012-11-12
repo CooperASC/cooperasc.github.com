@@ -2,13 +2,11 @@
 # ABOUT ME
 title: Sebastian Quijada Link
 class: Sophomore
-preferred_email: me@sebasART.com
-gravatar_email: me@sebasART.com
+preferred_email: me@sebasart.com
+gravatar_email: me@sebasart.com
 committees:
 - name: Ad Chair
   link: /committees/#committee_one
-- name: Committee Two
-  link: /committees/#committee_two
 
 # SITE STUFF YOU CAN EDIT
 published: true

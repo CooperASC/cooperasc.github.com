@@ -20,10 +20,8 @@ category: people
 
 ---
 
-moose moose moose moose moose
-moose moose moose moose
-moose moose moose
-moose moose
-moose 
+Hey y'all!
 
-I'm a moose.
+I'm from around Dallas, Texas, originally. I'm a freshman as of this year. 
+
+I'm fairly friendly, so if you have comments or questions, hit me up.
