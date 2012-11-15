@@ -4,7 +4,7 @@ title: Meeting with Board Chair, Vice Chair, President and Student Reps
 notetaker: Casey Gollan
 
 # SITE STUFF YOU CAN EDIT
-published: false
+published: true
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
