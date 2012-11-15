@@ -54,3 +54,7 @@ To add a new person, create a file in `/_posts/people/` titled `0100-01-XX-First
     - name: Web and Social
       link: /committees/#web_and_social
     ---
+
+## Notifications
+
+You can get text notifications when things change by texting "Follow CooperASC" to 40404
