@@ -1,6 +1,6 @@
 ---
 # MEETING OR EVENT INFO
-title: Full Faculty Meeting
+title: School of Art Faculty Meeting
 notetaker: Kristi Cavataro
 
 # SITE STUFF YOU CAN EDIT
@@ -11,9 +11,7 @@ layout: notes-single
 category: notes
 ---
 
-#School of Art Faculty Meeting / Peter Cooper Suite
-(Kristi's Notes)
-
+Peter Cooper Suite
 November 13 9:30-10:30am
 
 Present: Dean Saskia Bos, Steven Lam, Judith Bernstein, All Full Time Faculty, All Prop Time Faculty, Pam Lins & Mike Vahrenwald representing adjunct faculty, Kristi Cavataro, Jenny Eagleton, Won Cha representing students
