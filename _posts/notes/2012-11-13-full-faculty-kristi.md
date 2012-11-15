@@ -4,7 +4,7 @@ title: Full Faculty Meeting
 notetaker: Kristi Cavataro
 
 # SITE STUFF YOU CAN EDIT
-published: false
+published: true
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
