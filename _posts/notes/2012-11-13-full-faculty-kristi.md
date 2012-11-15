@@ -60,7 +60,7 @@ Sometime TBA in January - The Board Votes
 
 #Saskia opens it up to conversation
 
---asks anyone to give an impression of what the Steering Committee is like / doing. This conversation takes up the majority of the meeting time. Most faculty are given opportunity to speak. The things they say:
+--asks anyone to give an impression of what the Steering Committee is like / doing. This conversation takes up the majority of the meeting time. Most faculty are given opportunity to speak. Things that are said:
 
 
 --We are coming up with lots of ideas that will fit in with what we have going on now.
@@ -172,7 +172,7 @@ Second items to vote on:
 A motion passed by the Administrative Committee that "A student must be in good academic standing to be eligible to serve as a student representative to the Faculty and its standing committees" (Voted on, passed)
 
 
-A motion passed by the Administrative Committee that "The Administrative Committee reaffirms the ruling of the Academic Standards Committee that stunts must have completed Foundation Year requirements, and be in good academic standing in order to be eligible to work for the Saturday or Outreach program." (Voted on, passed)
+A motion passed by the Administrative Committee that "The Administrative Committee reaffirms the ruling of the Academic Standards Committee that students must have completed Foundation Year requirements, and be in good academic standing in order to be eligible to work for the Saturday or Outreach program." (Voted on, passed)
 
 
 A third item was supposed to be presented for a vote:
@@ -186,7 +186,9 @@ The Language for Approval of the Faculty regarding new program proposals:
 But it was agreed that we are not yet ready to vote on this language. 
 
 
-#Someone makes a motion to adjourn the meeting, someone seconds, we all agree. The end.
+
+
+Someone makes a motion to adjourn the meeting, someone seconds, we all agree. End of meeting.
 
 
 
