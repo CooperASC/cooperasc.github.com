@@ -473,6 +473,25 @@ body#notes-index ul#notes-list li .notetaker {
   color:black;
 }
 
+.search-n-sort {
+  margin-bottom:20px;
+  background:#efefef;
+  padding:10px;
+}
+
+.search-n-sort a {
+  display:inline-block;
+  border-radius:5px;
+  background:#bbb;
+  color:#fff;
+  padding:3px 5px;
+  text-decoration: none;
+}
+
+.search-n-sort a:active {
+  background:gray;
+}
+
 @media (max-width: 340px) {
   nav#top {
     display:block;
