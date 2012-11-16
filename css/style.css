@@ -479,6 +479,10 @@ body#notes-index ul#notes-list li .notetaker {
   padding:10px;
 }
 
+.search-n-sort input {
+  width:190px!important;
+}
+
 .search-n-sort a {
   display:inline-block;
   border-radius:5px;
