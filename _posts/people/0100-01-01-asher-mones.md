@@ -7,8 +7,8 @@ gravatar_email: ash.mones@gmail.com
 committees:
 - name: Judicial 
   link: /committees/#judicial
-- name: Student-Faculty Senate
-  link: /committees/#student_faculty_senate
+- name: Senate
+  link: /committees/#student
 
 # SITE STUFF YOU CAN EDIT
 published: true
