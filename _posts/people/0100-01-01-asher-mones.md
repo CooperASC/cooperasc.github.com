@@ -2,8 +2,8 @@
 # ABOUT ME
 title: Asher Mones
 class: Sophomore
-cooper_email:mones@cooper.edu	
-gravatar_email: ash.mones@gmial.com	
+cooper_email: mones@cooper.edu	
+gravatar_email: ash.mones@gmail.com
 committees:
 - name: Judicial 
   link: /committees/#judicial
