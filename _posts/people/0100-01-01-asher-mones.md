@@ -8,7 +8,7 @@ committees:
 - name: Judicial 
   link: /committees/#judicial
 - name: Senate
-  link: /committees/#student
+  link: /committees/#senate
 
 # SITE STUFF YOU CAN EDIT
 published: true
