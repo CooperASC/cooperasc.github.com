@@ -4,13 +4,12 @@ title: ASC Meeting Notes
 notetaker: DeVonn Francis
 
 # SITE STUFF YOU CAN EDIT
-published: false
+published: true
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
 category: notes
 ---
-
 
 Present Members:
 DeVonn Francis
@@ -160,4 +159,4 @@ Talking meeting with faculty and students
 -What portion of the faculty/staff should be there?
 
 Rachel Appel writing email to faculty
-Friday @ 6pm + Sunday @ 4pm 
+Friday @ 6pm + Sunday @ 4pm
