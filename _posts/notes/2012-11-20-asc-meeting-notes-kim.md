@@ -1,6 +1,6 @@
 ---
 # MEETING OR EVENT INFO
-title: Asc Meeting Nov 20
+title: Student Council Meeting
 notetaker: Kimberly	Yunker
 
 # SITE STUFF YOU CAN EDIT
@@ -11,40 +11,44 @@ layout: notes-single
 category: notes
 ---
 
-*Student-faculty meeting 
-	*-necessary for engineering student council
+## Student-faculty meeting 
 
-*student committee website
-	*-separate archive of past events: helping Emily, etc.
-	*-simplifying the front page: Mission Statement
-	*-student drop box (feedback) 
-	*-must look *sexy*
+- necessary for engineering student council
 
-*Leanne miller review: Jenny, Casey, Kristi 
+## Student council website
 
-*Response to student faculty meeting
+- separate archive of past events: helping Emily, etc.
+- simplifying the front page: Mission Statement
+- student drop box (feedback) 
+- must look *sexy*
+  
+## Leanne miller review: Jenny, Casey, Kristi 
 
-*Revenue generating programs
-	*-lack of current interest to continue building graduate programs 
+## Response to student faculty meeting
 
-*Engineering protest: 
-	*-opens up the need for more communication between the engineering and art students 
-	*-confused the idea of the union with 10-year
+## Revenue generating programs
 
-*Scholarship reception: combining freshman with donors
+- lack of current interest to continue building graduate programs 
 
-*Contemporary education
-	*Press 
-	*Poster
-	*Speakers
-	*Guards
+## Engineering protest
 
-*Speakers:
-*David Gurston
-*Peter Buckly
-*Sonya Sayres
-*Walid Raad
-*Henry Chapman 
-*Ethan Ellenburg 
-*Andrew Wilder
-*Yes Men
+  - opens up the need for more communication between the engineering and art students 
+  - confused the idea of the union with tenure
+  
+## Scholarship reception: combining freshman with donors
+
+## Contemporary education
+  - Press 
+  - Poster
+  - Speakers
+  - Guards
+
+## Speakers
+  - David Gersten
+  - Peter Bucklye
+  - Sonya Sayres
+  - Walid Raad
+  - Henry Chapman 
+  - Ethan Elenberg 
+  - Andrew Wilder
+  - Yes Men
