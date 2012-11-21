@@ -9,6 +9,7 @@ published: true
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
 category: notes
+filepath: _posts/notes/2012-11-13-full-faculty-kristi.md
 ---
 
 Peter Cooper Suite

@@ -9,11 +9,12 @@ published: true
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
 category: notes
+filepath: _posts/notes/2012-11-08-asc-devonn.md
 ---
 
 Present Members: DeVonn Francis, Asher Mones, Rachel Appel, Won O. Cha, Shira Service, Kimberly Yunker, Andy Overton, Sebastian Quijada Link, Jenny Eagleton, Casey Gollan, Kristi Cavataro, Charis Jackson-Barrios
 
-Other notes from this meeting: [Andy Overton](http://cooperasc.github.com/notes/2012/11/08/asc-meeting/)
+Other notes from this meeting: [Andy Overton](http://cooperasc.github.com/notes/2012/11/08/asc-andy/)
 
 ## Agenda
 

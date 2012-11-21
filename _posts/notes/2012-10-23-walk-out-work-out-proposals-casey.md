@@ -8,7 +8,7 @@ published: true
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
 category: notes
-filepath: _posts/notes/2012-10-23-walk-out-work-out-proposals.md
+filepath: _posts/notes/2012-10-23-walk-out-work-out-proposals-casey.md
 ---
 
 - Date: Tuesday the 30th, walk out at 12pm - ~5pm
