@@ -11,11 +11,9 @@ layout: notes-single
 category: notes
 ---
 
-#Art Student Council Meeting
-November 8, 2012
+Other notes from this meeting: [DeVonn Francis](http://cooperasc.github.com/notes/2012/11/08/asc-meeting-notes-devonn-francis/)
 
-
-##RGG (Won)
+## RGG (Won)
 1. MA/MS 
 	* All about the topics they want to teach
 	* Will raise issue of student representation to dean Saskia Monday
@@ -39,21 +37,20 @@ November 8, 2012
 	* 967 per credit
 	* 60-70 students
 
-##Adchair meeting
+## Ad-chair meeting
 * Morale in the engineering school
 * Dean Saskia will be presenting the programs to Jamshed 
 
-##JSC Meeting
+## JSC Meeting
 1. Hurricane Sandy issues
 2. Finding spaces to bring students from all three schools together
 	* Bulletin board for all the lectures
 3. Petri emergency fund available
 
-##Electives
+## Electives
 * Bring up to Dean Saskia issue of representation in curriculum meetings that have to do with
 * Ask Saskia criteria for cutting classes
 * Need to review certain faculties
 
-##Printing
+## Printing
 * Nothing official being said about paying by foot or getting an amount of prints
-	
