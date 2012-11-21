@@ -114,7 +114,7 @@ Other notes from this meeting: [Andy Overton](http://cooperasc.github.com/notes/
 - $ to prints covers the cost/ does not generate revenues (unofficial)
 
 ## CDG Associates
-- *CDG assoc.- given final report/ only pres + other admin have seen it- not funneled down yet
+- CDG assoc. — given final report/ only pres + other admin have seen it — not funneled down yet
 - RA - “is there final report→ CDG?” → Lawrence + TC say “No” (CDG needs to be looked at further)
 - Needs further clarification
 
@@ -127,7 +127,7 @@ Other notes from this meeting: [Andy Overton](http://cooperasc.github.com/notes/
 - Why is it that the president of our school says that he does not have the capability to raise 400 million dollars, and offloads the responsibilities on to other people.
 
 ## Talking meeting with faculty and students
-- Student frustration/w faculty-→ we should call meeting/w faculty; Waalid would be interested
+- Student frustration/w faculty → we should call meeting/w faculty; Walid would be interested
 - ask for a more concrete way that faculty and students and more effectively come together 
 (is this an issue of student council?)
 - students need to be running the meeting so that the faculty does not take it over
