@@ -13,8 +13,6 @@ category: notes
 
 Present: [Mark Epstein](http://cooper.edu/about/trustees/mark-epstein), [Francois de Menil](http://cooper.edu/about/trustees/francois-de-menil), [Lawrence Cacciatore](http://cooper.edu/people/lawrence-cacciatore), [Casey Gollan](/people/casey-gollan/) (Art Student Council), [Rachel Appel](/people/rachel-appel/) (Art Student Council), Che Perez (Architecture Student Council), Teddy (Architecture student), [Kristof Toth](http://esc.cooper.edu/repinfo.php?repname=toth) (Engineering Student Council), [Nick Breeser](http://esc.cooper.edu/repinfo.php?repname=breese) (Engineering Student Council), ??? (Student in School of Engineering)
 
-***
-
 - Lawrence mentions that a few of the students here gave tours to our three new trustees, and that went well. This is a new initiative, we used to just schedule a lunch.
 - Rachel asks if there is a structure for bringing on new trustees?
 - Francois says there is no formula.
