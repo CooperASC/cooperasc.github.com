@@ -1,24 +1,34 @@
-The website of [Cooper Union](http://cooper.edu)'s Art Student Council.
-
-Powered by [Jekyll](http://jekyllrb.com) and hosted by [Github Pages](http://pages.github.com).
+The website of [Cooper Union](http://cooper.edu)'s Art Student Council. Powered by [Jekyll](http://jekyllrb.com) and hosted by [Github Pages](http://pages.github.com).
 
 ---
 
-## Editing and Adding to this site
+## What is Git?
+
+## Why Git?
 
 ### Clone / Fork / Push / Pull
 
 Anyone who is a [member of student council](https://github.com/CooperASC?tab=members) can directly create and edit any page on this site by cloning the repository and pushing changes back to Github.
 
+## Contributing to the Cooper ASC Website
+
 ### Desktop Git Clients
 
-For those who are still not comfortable with Git's command line interface, Github has decent clients for [Mac](http://mac.github.com) and [Windows](http://windows.github.com) that make cloning, pushing, and pulling a single-button affair.
+For those who are not comfortable with Git's command line interface, Github has decent clients for [Mac](http://mac.github.com) and [Windows](http://windows.github.com) that make cloning, pushing, and pulling a single-button affair.
 
 ### Editing content online
 
 If you're just looking to create or edit content, you can [edit the site online with Prose.io](http://prose.io/#CooperASC/cooperasc.github.com). Simply sign into your Github account. Non student council members can also use Prose to make changes and submit them for review by a student council member.
 
-## Making good content
+### Best practices for file naming
+
+Note URLs should follow this format:
+
+    /_posts/YYYY-MM-DD-event-title-firstname.md
+    
+- lowercase
+- multiple words seperated by dashes
+- unneccesary words like "meeting" omitted for brevity
 
 ### Ordering posts
 
