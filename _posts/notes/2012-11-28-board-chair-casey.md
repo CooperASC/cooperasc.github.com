@@ -9,6 +9,7 @@ published: true
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
 category: notes
+filepath: _posts/notes/2012-11-28-board-chair-casey.md
 ---
 
 Present: [Mark Epstein](http://cooper.edu/about/trustees/mark-epstein), [Francois de Menil](http://cooper.edu/about/trustees/francois-de-menil), [Lawrence Cacciatore](http://cooper.edu/people/lawrence-cacciatore), [Casey Gollan](/people/casey-gollan/) (Art Student Council), [Rachel Appel](/people/rachel-appel/) (Art Student Council), Che Perez (Architecture Student Council), Teddy (Architecture student), [Kristof Toth](http://esc.cooper.edu/repinfo.php?repname=toth) (Engineering Student Council), [Nick Breeser](http://esc.cooper.edu/repinfo.php?repname=breese) (Engineering Student Council), ??? (Student in School of Engineering)
@@ -59,7 +60,7 @@ Present: [Mark Epstein](http://cooper.edu/about/trustees/mark-epstein), [Francoi
 - Lawrence says that Casey shouldn't frame this like a battle. This administration is very open and anyone can make an appointment to talk to the president.
 - Casey says it's not that easy. Just because a channel of communication exists doesn't mean it's safe or effective for an untenured faculty member to walk into the president's office and tell them they disagree.
 - Mark says he will listen to anyone's ideas, and that good ideas can come from anywhere.
-- Che reads from [the charter](http://library.cooper.edu/archive/charter/cu_charter_1.html) about a yet to be realized structure called the "Associate of Cooper Union
+- Che reads from [the charter](http://library.cooper.edu/archive/charter/cu_charter_1.html) about a yet to be realized structure called the "Associates of Cooper Union".
 - Mark says he is unfamiliar with this and it sounds interesting, and maybe the Alumni Association is something like it, or the President's Council, which is currently not very active.
 - Casey says that it's frustrating to have to scour old documents for angles in which we can have representation. Why do all decisions lie with the Board of Trustees?
 - Casey says that we need better accountability, transparency, and decision-making structures because the board has said they've been aware of financial problems [since the 1970's](http://cooper.edu/sites/default/files/uploads/assets/site/files/Financial-Narrative_2011.pdf) but people here didn't realize this was a problem or have a way to contribute to the strategy, let alone disagree with the strategies that have landed us here.
@@ -74,7 +75,7 @@ Present: [Mark Epstein](http://cooper.edu/about/trustees/mark-epstein), [Francoi
 - Rachel asks about the progress of negotiations to access restricted funds.
 - Mark says there is nothing to announce yet.
 - Lawrence goes through some of the details and says he can talk more about it later.
-- Kristof says that the engineering faculty trusts and supports their faculty's work on the Hybrid plans and had a study-in to show support.
+- Kristof says that the engineering student body trusts and supports their faculty's work on the Hybrid plans and had a study-in to show support.
 - Lawrence says this was a very beautiful gesture.
 - As the meeting goes on a little past it's scheduled ending, Casey says he'd pose a question to hear Nick about why we should keep the school open if we discontinue its scholarships, citing Cooper's founding mission of "Free Education To All" and  school press materials from the capital campaign to build the New Academic Building calling tuition-free education the school's "bedrock mission".
 - Francois says it is not the school's history, as Jamshed's research has shown, and it isn't the bedrock mission.

@@ -1,10 +1,10 @@
 ---
 # MEETING OR EVENT INFO
-title: Meeting with Board Chair, Vice Chair, President and Student Reps
+title: Board Chair Meeting
 notetaker: Casey Gollan
 
 # SITE STUFF YOU CAN EDIT
-published: false
+published: true
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: notes-single
@@ -60,8 +60,6 @@ I've organized my notes from the meeting by topic of discussion:
 
 - Kristof: we respect our representatives, again with the idea of talking more in smaller rooms, we respect reps, diff
 - Mark Epstein: that things where 97% of students gave a penny? "Not cute...insulting."
-- Cy Pres
-- In the [Engineering Student Council meeting I sat in on](http://esc.cooper.edu/minutes.php?id=24) "We called Olin and Rice about their switch to charging some tuition, they said they saw a dip in student quality (like average SAT score) in the beginning, but then they rebounded back. The tuition values we would look at are substantially below those of neighboring schools."
 - Mark: our alumni are not wealthy enough to fund us so we have to look for alternatives. If the message of giving back isn't working, maybe we should talk about "giving forward."
 - Mark: Cooper's Board hired consultants to tell them how they can be a better board. They reccomended changes such as much shorter terms for trustees, so the board reduced them a little bit.
 
@@ -88,12 +86,13 @@ I've organized my notes from the meeting by topic of discussion:
 - Mauricio didn't like what [Peter Cafiero](http://cooper.edu/about/trustees/peter-cafiero) had to say on the day students were invited into a board meeting after dangling dollar bills outside. Jamshed responds: "sometimes the truth makes you cry, Mauricio."
 
 ## Where to go from here
-- There are a number of things I want to follow up on:  
- - finding out which trustees are on which committee
- - working with Lawrence Cacciatore on digitizing archives of public documents and information
- - preparing a report on reccomended tools and workflows for better accountability and transparency
- - obtaining T.C.'s report on administrative vs. instructional costs
- - following up on questions that remain unanswered at the next meeting
-- Our next meeting is scheduled for November 28th at 10am in the President's Conference Room.
-- In addition to Rachel and I, one non-student-council student body representative may attend but it hasn't been decided yet how this person will be chosen. Get in touch if you're interested!
-- Please also [let me know](mailto:caseygollan@gmail.com) if you'd like clarification on any of these points or have questions/concerns you'd like me to bring to the Board.
+
+There are a number of things I want to follow up on:  
+
+- finding out which trustees are on which committee
+- working with Lawrence Cacciatore on digitizing archives of public documents and information
+- preparing a report on reccomended tools and workflows for better accountability and transparency
+- obtaining T.C.'s report on administrative vs. instructional costs
+- following up on questions that remain unanswered at the next meeting
+
+Our next meeting is scheduled for November 28th at 10am in the President's Conference Room. In addition to Rachel and I, one non-student-council student body representative may attend but it hasn't been decided yet how this person will be chosen. Get in touch if you're interested! Please also [let me know](mailto:caseygollan+cooperasc@gmail.com) if you'd like clarification on any of these points or have questions/concerns you'd like me to bring to the Board.
