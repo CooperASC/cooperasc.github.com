@@ -18,7 +18,6 @@ permalink: /people/rachel-appel/
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: people-single
-category: people
 ---
 
 Hey! 

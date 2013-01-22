@@ -14,8 +14,6 @@ permalink: /people/sebastian-quijada-link/
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: people-single
-category: people
-
 ---
 
 I have joined.
