@@ -3,7 +3,8 @@ title: Consitution
 published: true
 category: about
 layout: index
-filepath: /about/constitution
+permalink: /about/constitution/
+filepath: /about/constitution/
 ---
 
 ## Constitution
