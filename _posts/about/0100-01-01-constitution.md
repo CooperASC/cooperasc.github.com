@@ -1,6 +1,7 @@
 ---
 title: Consitution
 published: true
+category: about
 layout: index
 filepath: /about/constitution
 ---
