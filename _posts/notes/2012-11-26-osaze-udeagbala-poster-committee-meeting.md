@@ -27,7 +27,7 @@ category: notes
 ##Check-in with Kristof
 * Spoke with Architecture Faculty for upcoming lecture events
 * Suggestion: speak with the Webmaster (Andrew Arnold)
-* Interdisciplinary seminar (IDS) put on by Walid Raad – talk to [?] about future information
+* Interdisciplinary seminar (IDS) put on by Walid Raad – talk to (?) about future information
 
 ##Our Plan – get contacts and event info from the following facilities:
 * Architecture - Oliver
