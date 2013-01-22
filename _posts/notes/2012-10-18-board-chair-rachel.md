@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: Meeting with Board Chair, Vice Chair, President and Student Reps
 notetaker: Rachel Appel
+tags: board-chair
 
 # SITE STUFF YOU CAN EDIT
 published: true

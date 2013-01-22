@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: Board Chair Meeting
 notetaker: Casey Gollan
+tags: board-chair
 
 # SITE STUFF YOU CAN EDIT
 published: true

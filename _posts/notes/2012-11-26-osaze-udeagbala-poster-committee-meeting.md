@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: Event Consolidation Committee Meeting #2
 notetaker: Andy Overton
+tags: fun
 
 # SITE STUFF YOU CAN EDIT
 published: true
