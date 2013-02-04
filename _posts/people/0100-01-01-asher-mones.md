@@ -4,11 +4,7 @@ title: Asher Mones
 class: Sophomore
 cooper_email: mones@cooper.edu	
 gravatar_email: ash.mones@gmail.com
-committees:
-- name: Judicial 
-  link: /committees/#judicial
-- name: Senate
-  link: /committees/#senate
+tags: judicial, senate
 
 # SITE STUFF YOU CAN EDIT
 published: true
