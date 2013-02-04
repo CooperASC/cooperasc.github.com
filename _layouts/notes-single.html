@@ -1,0 +1,9 @@
+---
+body_id: notes-single
+layout: default
+---
+
+<h1><a href="/notes">Notes</a>: {{ page.title }}</h1>
+<p>Notes from {{ page.date | date:"%B %d, %Y" }} by {{ page.notetaker }}</p>
+
+{{content}}
