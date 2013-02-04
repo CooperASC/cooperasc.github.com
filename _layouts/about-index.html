@@ -1,0 +1,11 @@
+---
+layout: index
+---
+
+<ul>
+	{% for item in site.categories.about %}
+	<li>
+		<a href="{{item.url}}">{{item.title}}</a>
+	</li>
+	{% endfor %}
+</ul>
