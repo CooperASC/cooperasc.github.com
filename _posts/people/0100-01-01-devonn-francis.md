@@ -5,10 +5,8 @@ class: sophomore
 preferred_email: devonnfrancis@gmail.com
 gravatar_email: devonnfrancis@gmail.com
 committees:
-- name: Committee One
-  link: /committees/#committee_one
-- name: Committee Two
-  link: /committees/#committee_two
+- name: Joint Activities
+  link: /committees/#joint_activities
 
 # SITE STUFF YOU CAN EDIT
 published: true
