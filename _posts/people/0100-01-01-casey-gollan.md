@@ -4,9 +4,7 @@ title: Casey Gollan
 class: Senior
 preferred_email: caseygollan@gmail.com
 gravatar_email: caseygollan@gmail.com
-committees:
-- name: Board Chairman
-  link: /committees/#board_chairman
+tags: board-chair, admissions
 
 # SITE STUFF YOU CAN EDIT
 published: true
