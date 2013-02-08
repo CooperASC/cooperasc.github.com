@@ -1,10 +1,10 @@
 ---
-title: Consitution
+title: Constitution
 published: true
 category: about
 layout: index
 permalink: /about/constitution/
-filepath: /about/constitution/
+filepath: _posts/about/0100-01-01-constitution.md
 ---
 
 ## Constitution
