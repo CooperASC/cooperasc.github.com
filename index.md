@@ -1,21 +1,10 @@
 ---
-title: Cooper Union Art Student Council
+title: Cooper&nbsp;Union Art&nbsp;Student&nbsp;Council
 layout: index
 body_id: index
 filepath: index.md
 ---
 
-## What We Do
+We're [a group of art students](/people). (You can [join too](mailto:cuartcouncil@gmail.com?subject=Joining%20Art%20Student%20Council).) We get to go to faculty and administrative meetings within the existing bureaucratic structure at Cooper. We get to vote on behalf of students and [take **notes** which we share](/notes). The school gives us money to throw parties. We're whatever the student body needs their bureaucratic presence to be.
 
-### Communication
-Art Student Council serves to instigate communication between the art student body and the wider community. To accomplish this, Art Student Council must a) both receive factual information and disperse it, b) have a continual and unbiased line of communication with our peers. 
-
-### Community Building
-Art Student Council serves to create a rich community experience amongst our peers that exists outside of our academic life. This is accomplished through integrating the freshmen into the broader student body, holding events for the whole School of Art, and maintaining a strong link between the Art students and groups such as the Art School’s Administration, Engineering and Architecture Schools, Alumni, and the local community. 
-
-### Academic Integrity
-Art Student Council has a responsibility to ensure that the academic programs in the School of Art hold true to the needs and integrity of the student body. 
-
-### Student Council Identity
-Art Student Council must create and maintain an identity that reflects its current members.
-In order to maintain this identity, Art Student Council keeps meeting minutes, fundraises for future student councils, is rigorous, has a unified voice and a public presence.
+Peruse the [about section](/about) to learn more about our [structure](/about/committees), [technology](/about/this-site), and commitment to [transparency](/about/transparency).
