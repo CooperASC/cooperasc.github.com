@@ -4,9 +4,7 @@ title: DeVonn Francis
 class: sophomore
 preferred_email: devonnfrancis@gmail.com
 gravatar_email: devonnfrancis@gmail.com
-committees:
-- name: Joint Activities
-  link: /committees/#joint_activities
+tags: joint-activities
 
 # SITE STUFF YOU CAN EDIT
 published: true

@@ -4,13 +4,7 @@ title: Kristi Cavataro
 class: Junior
 preferred_email: kcavataro@gmail.com
 gravatar_email: kcavataro@gmail.com
-committees:
-- name: Admissions
-  link: /committees/#admissions
-- name: Joint Activities Committee
-  link: /committees/#joint_activities
-- name: Judicial
-  link: /committees/#judicial
+tags: admissions, joint-activities, judicial
 
 # SITE STUFF YOU CAN EDIT
 published: true

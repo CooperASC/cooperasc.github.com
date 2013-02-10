@@ -4,11 +4,7 @@ title: Shira Service
 class: Junior
 cooper_email: servic@cooper.edu
 gravatar_email: shiraservice@gmail.com
-committees:
-- name: Campus Security
-  link: 
-- name: Senate
-  link: 
+tags: campus-security, senate
 
 # SITE STUFF YOU CAN EDIT
 published: true
