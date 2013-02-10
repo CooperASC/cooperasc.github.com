@@ -14,7 +14,7 @@ layout: default
 		{% for item in site.categories.notes %}
 		<li>
 			<a href="{{item.url}}">
-				<span class="date">{{item.date | date:"%Y %B %d"}}</span>
+				<span class="date">{{item.date | date:"%B %d, %Y"}}</span>
 				<span class="title">{{item.title}}</span>
 				<span class="notetaker">{{item.notetaker}}</span>
 			</a>
