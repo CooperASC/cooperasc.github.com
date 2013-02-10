@@ -1,6 +1,15 @@
 ---
-layout: default
+# MEETING OR EVENT INFO
+title: Student Council Meeting
+notetaker: DeVonn Francis
+
+# SITE STUFF YOU CAN EDIT
 published: true
+
+# SITE STUFF YOU SHOULDN'T EDIT
+layout: notes-single
+category: notes
+filepath: _posts/notes/2013-1-28-asc-devonn.md
 ---
 
 ASC Meeting Notes January 28, 2013
@@ -59,4 +68,4 @@ Creating a List of description for the Au Chair Positoin (but also all of the po
 
 -Filling Spots tentatively, but we are also promoting positions to the Art School Community  
 
--Working on rebranding Student Council  
+-Working on rebranding Student Council
