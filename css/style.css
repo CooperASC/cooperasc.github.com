@@ -374,7 +374,32 @@ table {
     border-spacing: 0;
 }
 
-/* COOPER ASC STYLES */
+/* ==========================================================================
+   Cooper ASC Styles
+   ========================================================================== */
+
+body {
+  padding:0;
+  font-family:Helvetica;
+  line-height:1.25;
+  background:#FFF6EC;
+}
+
+h1, h2, h3 {
+    font-family: "Open Sans";
+}
+
+h1 {
+  font-weight: 100;
+}
+
+h2 {
+  font-weight:600;
+}
+
+h3 {
+  font-weight:800;
+}
 
 nav ul, body#notes-index ul#notes-list {
   list-style-type:none;
@@ -384,11 +409,6 @@ nav ul, body#notes-index ul#notes-list {
 
 nav a:link, nav a:visited, body#notes-index ul#notes-list a:link, body#notes-index ul#notes-list a:visited {
   text-decoration:none;
-}
-
-.active {
-	opacity:.5;
-  font-weight:bold;
 }
 
 nav#people ul {
@@ -413,13 +433,42 @@ nav#people img {
   margin:10px;
 }
 
+#notes-single header {
+  border-bottom:1px solid black;
+  padding:0 0 15px 0;
+  margin:0 0 10px 0;
+}
+
 nav#top {
-  background:#eee;
+  border-bottom: 1px solid black;
 }
 
 nav#top li {
   margin:0;
   padding:0;
+}
+
+nav#top a:link, nav#top a:visited {
+  padding:10px;
+  margin:0;
+  color:black;
+}
+
+
+nav#top a:hover {
+}
+
+.active {
+  font-weight:bold;
+  border-top:2px solid black;
+}
+
+.metadata {
+  box-shadow:0px 0px 5px rgba(0,0,0,.10);
+  border:1px solid #eee;
+  background:#fff;
+  padding:10px;
+  line-height:1.5em;
 }
 
 article {
@@ -432,12 +481,6 @@ footer {
   margin-top:10px;
   padding: 10px;
   border-top:1px solid #eee;
-}
-
-nav#top a:link, nav#top a:visited {
-  padding:10px;
-  background:#eee;
-  margin:0;
 }
 
 hr {
@@ -475,7 +518,7 @@ body#notes-index ul#notes-list li .notetaker {
 
 .search-n-sort {
   margin-bottom:20px;
-  background:#efefef;
+  background:rgba(0,0,0,.10);
   padding:10px;
 }
 
@@ -516,10 +559,19 @@ body#notes-index ul#notes-list li .notetaker {
   nav#top li a:link, nav#top li a:visited {
     display: block;
     margin:0;
-    border-right:1px solid #fff;
   }
 }
 
 @media (min-width: 720px) {
   /* all other code if its not mobile or tablet */
+  #content, nav#top, footer {
+    max-width:800px;
+    margin:auto;
+  }
+  .metadata {
+    display:inline-block;
+    width:200px;
+    float:right;
+    margin:0 0 10px 20px;
+  }
 }
