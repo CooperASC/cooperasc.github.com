@@ -7,7 +7,7 @@ ASC Meeting Notes January 28, 2013
 
 Notes
 
-Agenda:
+Agenda:  
 -Web Design 
 Helping Learn how to use website  
 Transparency disclosure Statement  
