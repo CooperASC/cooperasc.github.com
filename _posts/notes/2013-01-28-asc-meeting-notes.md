@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 ---
 
 ASC Meeting Notes January 28, 2013
