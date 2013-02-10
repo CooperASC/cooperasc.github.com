@@ -14,7 +14,7 @@ filepath: _posts/notes/2013-1-28-asc-devonn.md
 
 ASC Meeting Notes January 28, 2013
 
-Notes
+(notes taken by DeVonn Francis)
 
 Agenda:  
 -Web Design 
