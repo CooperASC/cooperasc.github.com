@@ -1,7 +1,8 @@
 ---
 # MEETING OR EVENT INFO
 title: School of Art Faculty Meeting with President and Trustees
-notetaker: Kristi Cavataro and Casey Gollan
+notetaker: Kristi Cavataro, Casey Gollan
+tags: faculty-administration
 
 # SITE STUFF YOU CAN EDIT
 published: true
@@ -58,7 +59,7 @@ Epstein: Isn’t Jamshed asking for help radically different?
 
 Osinski: No. A lot of things have all been thrown into the same pot. We’ve had threats of a school closing. That even if we come up with new programs we could still get cut. We have no idea what anyone’s intentions are in asking us to do these tasks, we want to know what the trustees' vision is.
 
-[Epstein starts to answer and gets cut off by Driscoll.]
+(Epstein starts to answer and gets cut off by Driscoll.)
 
 Driscoll: Mark is not all — thanks for taking the lead. We have to be financially sustainable. Jamshed has beaten us up behind closed doors about it. This is the 11th hour. The onus is on Jamshed and Jamshed has engaged the community. We have no preordained plan, we’re looking to everyone to help us find it.
 

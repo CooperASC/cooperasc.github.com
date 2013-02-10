@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: Art Student Council
 notetaker: Andy Overton
+tags: student-council
 
 # SITE STUFF YOU CAN EDIT
 published: true

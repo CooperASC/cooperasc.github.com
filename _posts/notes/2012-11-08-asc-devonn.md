@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: ASC Meeting Notes
 notetaker: DeVonn Francis
+tags: student-council
 
 # SITE STUFF YOU CAN EDIT
 published: true

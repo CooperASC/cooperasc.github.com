@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: School of Art Faculty Meeting
 notetaker: Kristi Cavataro
+tags: faculty
 
 # SITE STUFF YOU CAN EDIT
 published: true

@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: Student Council Meeting with Saskia Bos
 notetaker: Casey Gollan
+tags: student-council
 
 # SITE STUFF YOU CAN EDIT
 published: true

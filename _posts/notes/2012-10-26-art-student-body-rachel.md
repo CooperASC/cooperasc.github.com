@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: Art Student Body Meeting
 notetaker: Rachel Appel
+tags: art-student-body
 
 # SITE STUFF YOU CAN EDIT
 published: true

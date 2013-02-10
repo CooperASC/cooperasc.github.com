@@ -1,6 +1,7 @@
 ---
 title: Walk Out / Work Out Proposals
 notetaker: Casey Gollan
+tags: art-student-body
 
 # SITE STUFF YOU CAN EDIT
 published: true

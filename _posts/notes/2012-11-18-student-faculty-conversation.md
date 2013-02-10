@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: Student-Faculty Conversation
 notetaker: Andy Overton
+tags: student-faculty
 
 # SITE STUFF YOU CAN EDIT
 published: true

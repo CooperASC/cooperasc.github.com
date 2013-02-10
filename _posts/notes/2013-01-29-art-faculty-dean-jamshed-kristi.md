@@ -2,6 +2,7 @@
 # MEETING OR EVENT INFO
 title: Art Faculty / Dean / Jamshed Meeting / Peter Cooper Suite
 notetaker: Kristi Cavataro
+tags: faculty-administration
 
 # SITE STUFF YOU CAN EDIT
 published: true
