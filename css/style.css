@@ -554,6 +554,8 @@ body#notes-index ul#notes-list li .tags {
 
 .search-n-sort input:focus {
   background:#fff;
+  outline:none;
+  box-shadow:0 0 10px rgba(0,0,0,.25);
 }
 
 .search-n-sort a {
