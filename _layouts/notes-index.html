@@ -11,7 +11,7 @@ layout: default
 			<input type="hidden" name="sitesearch" value="cooperasc.github.com" />
 			<input type="text" id="search" class="search" name="q" autocomplete="off" placeholder="Start typing to filter, hit return to search full-text." />
 		</form>
-    </div>
+	</div>
 	<ul id="notes-list" class="list">
 		{% for item in site.categories.notes %}
 		<li>
@@ -36,31 +36,33 @@ layout: default
 <script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js"></script>
 <script src="/js/list.min.js"></script>
 <script>
-    var options = {
-	    valueNames: [ 'date', 'title', 'tags', 'notetaker' ]
-    };
+	var options = {
+		valueNames: [ 'date', 'title', 'tags', 'notetaker' ]
+	};
 
-    var featureList = new List('list', options);
+	var featureList = new List('list', options);
 
   $(function() {
-    var availableTags = [
-      "Andy Overton", // people
-      "Asher Mones",
-      "Casey Gollan",
-      "Charis Jackson-Barrios",
-      "DeVonn Francis",
-      "Jenny Eagleton",
-      "Kristi Cavataro",
-      "student-council", // meeting types
-      "faculty-administration",
-      "board-chair",
-      "fun",
-      "faculty",
-      "art-student-body"
-    ];
-    $( "#search" ).autocomplete({
-      source: availableTags
-    });
+	var availableTags = [
+	  "Andy Overton", // people
+	  "Asher Mones",
+	  "Casey Gollan",
+	  "Charis Jackson-Barrios",
+	  "DeVonn Francis",
+	  "Jenny Eagleton",
+	  "Kristi Cavataro",
+	  "student-council", // meeting types
+	  "faculty-administration",
+	  "board-chair",
+	  "fun",
+	  "faculty",
+	  "art-student-body"
+	];
+	$( "#search" ).autocomplete({
+	  source: availableTags
+	});
   });
+
+  $("#search").focus();
 </script>
 
