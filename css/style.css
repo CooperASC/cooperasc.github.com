@@ -454,6 +454,9 @@ nav#top a:link, nav#top a:visited {
   color:black;
 }
 
+nav#top .label {
+  display:none;
+}
 
 nav#top a:hover {
 }
@@ -540,18 +543,9 @@ body#notes-index ul#notes-list li .notetaker {
 }
 
 @media (max-width: 340px) {
-  nav#top {
-    display:block;
-    width:100%;
-  }
-  nav#top a:link, nav#top a:visited {
-    display:block;
-    border-bottom:1px solid #fff;
-  }
-}
+  /* code for iPhones only */
 
-@media (min-width: 340px) {
-  /* code for tablets only */
+}
   nav#top li {
     display:inline-block;
     margin:0;
@@ -559,6 +553,12 @@ body#notes-index ul#notes-list li .notetaker {
   nav#top li a:link, nav#top li a:visited {
     display: block;
     margin:0;
+  }
+@media (min-width: 340px) {
+  /* code for tablets only */
+
+  nav#top .label {
+    display:inline;
   }
 }
 
