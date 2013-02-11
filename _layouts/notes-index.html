@@ -7,8 +7,7 @@ layout: default
 {{ content }}
 <div id="list">
 	<div class="search-n-sort">
-		<input class="search" id="search" placeholder="Search Title/Date/Author" />
-		<a href="javascript:void(0)" class="sort" data-sort="date">Sort by Date</a>
+		<input class="search" id="search" placeholder="Start typing to search Title/Date/Author" />
     </div>
 	<ul id="notes-list" class="list">
 		{% for item in site.categories.notes %}
@@ -16,6 +15,11 @@ layout: default
 			<a href="{{item.url}}">
 				<span class="date">{{item.date | date:"%B %d, %Y"}}</span>
 				<span class="title">{{item.title}}</span>
+				<span class="tags">
+					{% for tag in item.tags %}
+						#{{ tag }}
+					{% endfor %}
+				</span>
 				<span class="notetaker">{{item.notetaker}}</span>
 			</a>
 		</li>
@@ -26,7 +30,7 @@ layout: default
 <script src="/js/list.min.js"></script>
 <script>
     var options = {
-	    valueNames: [ 'date', 'title', 'notetaker' ]
+	    valueNames: [ 'date', 'title', 'tags', 'notetaker' ]
     };
 
     var featureList = new List('list', options);

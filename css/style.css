@@ -512,7 +512,13 @@ body#notes-index ul#notes-list li .date {
 body#notes-index ul#notes-list li .title {
   font-size:18px;
   font-weight:bold;
+  display:inline;
   color:black;
+}
+
+body#notes-index ul#notes-list li .tags {
+  display:inline;
+  color:rgba(0,0,0,.25);
 }
 
 body#notes-index ul#notes-list li .notetaker {
@@ -522,11 +528,18 @@ body#notes-index ul#notes-list li .notetaker {
 .search-n-sort {
   margin-bottom:20px;
   background:rgba(0,0,0,.10);
-  padding:10px;
+  padding:0;
 }
 
 .search-n-sort input {
-  width:180px!important;
+  width:100%;
+  padding:10px;
+  border:0;
+  background:transparent;
+}
+
+.search-n-sort input:focus {
+  background:#fff;
 }
 
 .search-n-sort a {
@@ -544,7 +557,6 @@ body#notes-index ul#notes-list li .notetaker {
 
 @media (max-width: 340px) {
   /* code for iPhones only */
-
 }
   nav#top li {
     display:inline-block;
