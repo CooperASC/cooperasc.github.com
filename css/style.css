@@ -474,6 +474,16 @@ nav#top a:hover {
   line-height:1.5em;
 }
 
+.metadata a:link, .metadata a:visited {
+  text-decoration: none;
+}
+
+.metadata ul {
+  padding:0;
+  margin:0;
+  list-style-position: inside;
+}
+
 article {
   border-bottom:1px solid #eee;
   margin-bottom:10px;
