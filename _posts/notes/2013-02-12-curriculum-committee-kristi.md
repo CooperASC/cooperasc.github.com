@@ -41,8 +41,13 @@ Meeting begins by reviewing items from the last curriculum meeting – curriculu
 	–This conversation does bring up that Cooper once had a "Junior Review" which was a requirement for all Juniors to present their work from multiple classes to several professors at once, and other students were invited also. Lots of faculty present have good experiences with similar models at other schools. This would be a rare opportunity for students to hear from multiple professors at once / hear varying viewpoints. The Committee is interested talking more about how could look at Cooper / Margaret Morton will put together more info / potential proposal.
 
 Upcoming meeting schedule for Curriculum Committee / tentative agendas:
+
   Feb 19 (Walid will propose his video ideas, continuation of wider discussion)
+  
   Mar 5 (Christine will propose photo ideas, continuation of wider discussion)
+ 
   Mar 26
+  
   April 2 (Will invite HTA faculty to report on courses)
+  
   April 9
