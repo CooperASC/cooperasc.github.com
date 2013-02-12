@@ -1,3 +1,18 @@
+---
+# MEETING OR EVENT INFO
+title: School of Art Curriculum Committee Meeting
+notetaker: Kristi Cavataro
+tags: 
+
+# SITE STUFF YOU CAN EDIT
+published: true
+
+# SITE STUFF YOU SHOULDN'T EDIT
+layout: notes-single
+category: notes
+filepath: _posts/notes/2013-02-12-curriculum-committee-kristi.md
+---
+
 School of Art Curriculum Committee Meeting (Kristi's Notes)
 
 Tuesday Feb 12, 2013, 9:00-10:30AM / Peter Cooper Suite
