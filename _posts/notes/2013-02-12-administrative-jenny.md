@@ -1,10 +1,12 @@
 ---
-layout: default
+title: Administrative Committee Meeting
+notetaker: Jenny Eagleton
 published: false
+category: notes
+tags: administrative
+layout: notes-single
+filepath: _posts/notes/2013-02-12-administrative-jenny.md
 ---
-
-School of Art Administrative Committee Meeting Tuesday 2/12/13
-Notes by: Jenny Eagleton
 
 Agenda:
 1. Announcements
