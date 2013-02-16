@@ -6,6 +6,17 @@ published: false
 School of Art Administrative Committee Meeting Tuesday 2/12/13
 Notes by: Jenny Eagleton
 
+Agenda:
+1. Announcements
+2. (Approval of) Minutes of the meetings of October 23, 2012 and November 13, 2012
+3. PLT debrief--Associate Dean Lam
+4. Curriculum (committee report)
+5. EOYS Planning (postponed to next meeting, Feb. 26th)
+6. Review of Datatel/Webadvisor issues: registration, grading, drop/add--what problems did faculty and Advisement Office encounter?
+7. Revision of School of Art Governance (changes pending since January 2010)
+8. Development of criteria for student awards (conversation tabled)
+9. New Business
+
 Discussion about meeting previous Tuesday w/ faculty, dean, students, president and board members. 
 
 On the issue of $, charging tuition:
