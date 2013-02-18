@@ -1,7 +1,7 @@
 ---
 title: Letter from President Bharucha
 notetaker: DeVonn Francis
-tags: art-student-body
+tags: documents-received
 
 # SITE STUFF YOU CAN EDIT
 published: true
@@ -13,6 +13,8 @@ filepath: _posts/notes/2013-02-13-bharucha-letter.md
 ---
 
 *This letter is published as an archive of President Bharucha's letter to the Cooper Union Community and as a reference to the Art Student Council's letter in response to said letter. --DeVonn Francis*
+
+***
 
 February 13, 2013
 
