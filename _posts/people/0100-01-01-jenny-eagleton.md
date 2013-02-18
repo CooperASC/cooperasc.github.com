@@ -4,7 +4,7 @@ title: Jenny Eagleton
 class: Senior
 preferred_email: jenny.eagleton@yahoo.com
 gravatar_email: jenny.eagleton@yahoo.com
-tags: ad-chair, humanities curriculum, humanities faculty, full-faculty, administrative, commencement
+tags: ad-chair, humanities-curriculum, humanities-faculty, full-faculty, administrative, commencement
 
 # SITE STUFF YOU CAN EDIT
 published: true
