@@ -1,7 +1,7 @@
 ---
 title: Art Student Council Response to February 13th "Update from the President"
 notetaker: Art Student Council
-published: false
+published: true
 layout: notes-single
 category: notes
 filepath: _posts/notes/2013-02-13-bharucha-response.md
