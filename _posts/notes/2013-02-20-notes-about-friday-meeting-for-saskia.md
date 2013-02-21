@@ -33,7 +33,7 @@ I'm tired to the board saying that Saskia doesnt have a "handle" of us or that i
 
 5. How do we turn Bloomberg, as commencement speaker, into a positive platform? Can Bloomberg help us save Cooper?
 
-*Condensed version:*
+**Condensed version:**
 
 1. Security, what's the deal with it? Do you know how much it's costing the school? Why are they patrolling? There's a rumor going around that they've been instructed to watch out for students gathering, have you heard about this? 
 
