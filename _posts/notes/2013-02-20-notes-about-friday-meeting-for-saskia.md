@@ -24,8 +24,7 @@ filepath: _posts/notes/2013-02-13-bharucha-response.md
 
 7. Let's talk about Bloomberg.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+-----------------------------------------------------------------------
 
 original:
 1. What’s with the security. can you tell us how much it’s costing. Why are they patrolling?
