@@ -29,3 +29,8 @@ we've been tryin to answer this since forever ago
 can the art school grow down within itself only? in a fair way?
 
 can we save ourselves separate form the others?
+
+==
+
+what kind of reactions she feels are coming from the administration
+how much heat she's personally taking that we don't know about
