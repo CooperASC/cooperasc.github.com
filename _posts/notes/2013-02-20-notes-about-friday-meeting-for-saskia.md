@@ -28,6 +28,4 @@ HEY GUYS, we need to make a list of topics to set up Saskia for Friday!
 how much heat she's personally taking that we don't know about
 How if at all she can convey that or create a process where those board/admin complaints are voiced to students so we can respons and not just to people like Day and Saskia bearing the brunt.
 I'm tired to the board justifying that saskia doesnt have a "handle" of us or that if Day wasn't picking the admissions the applicants wouldnt be writing these things.
-or like what a successful action/result would be in her eyes- i know she seemed happy with yesterday.
-
-but it feels like the art school is stuck in a reactionary/defensive position and it would be great to know if she thinks its possible to get out from under this and what it woud look like
+or like what a successful action/result would be in her eyes- i know she seemed happy with yesterday. But it feels like the art school is stuck in a reactionary/defensive position and it would be great to know if she thinks its possible to get out from under this and what it woud look like
