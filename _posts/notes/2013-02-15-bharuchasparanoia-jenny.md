@@ -1,6 +1,15 @@
 ---
-layout: default
+title: Letter regarding President Bharucha's paranoia
+notetaker: jenny eagleton
+tags: notes
+
+# SITE STUFF YOU CAN EDIT
 published: false
+
+# SITE STUFF YOU SHOULDN'T EDIT
+layout: notes-single
+category: notes
+filepath: _posts/notes/2013-02-13-bharucha-letter.md
 ---
 
 An open letter to the community regarding our concern about President Bharucha's mounting paranoia:
@@ -18,4 +27,4 @@ He has referred to the creation of a "mob mentality" in the art school, indicati
 
 These beliefs concern us because the actions taken and the things he has said simply are not an accurate representation and response to the things actually going on at the school. 
 
-This concerns us a great deal because President Bharucha is the face of The Cooper Union and we feel that if these are the things he believes and feels, his representation of the school, the student body, and the temperature of the school to both the Board of Trustees and potential and long-time donors is far from accurate. We are concerned that President Bharucha is taking too much burden onto himself and is, as a result, causing him too much stress. 
+This concerns us a great deal because President Bharucha is the face of The Cooper Union and we feel that if these are the things he believes and feels, his representation of the school, the student body, and the temperature of the school to both the Board of Trustees and potential and long-time donors is far from accurate. We are concerned that President Bharucha is taking too much burden onto himself and is, as a result, causing him too much stress.
