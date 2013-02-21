@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-** Meeting 2-11-2013**
+**Meeting 2-11-2013**
 
 Present: Jon, DeVonn, Casey, Kristi, Charis, Jakob, Andy, Jenny
 
