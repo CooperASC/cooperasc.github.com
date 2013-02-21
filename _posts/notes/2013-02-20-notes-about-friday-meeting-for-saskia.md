@@ -31,12 +31,12 @@ original:
 1. What’s with the security. can you tell us how much it’s costing. Why are they patrolling?
 
 2. Where to go from here?:
--what efforts are being made to oppose and actively seek solutions? *solutions to what? Are we still talking about the Art School, or are we talking about something different?*  
--Conversation about how we can/ can we live within our means? (Walids point about $40m, and his school running on 10-12m)  
--What does it mean to 'grow down' & if this is effective, how do we go about doing so?
+- what efforts are being made to oppose and actively seek solutions? *solutions to what? Are we still talking about the Art School, or are we talking about something different?*  
+- Conversation about how we can/ can we live within our means? (Walids point about $40m, and his school running on 10-12m)  
+- What does it mean to 'grow down' & if this is effective, how do we go about doing so?
 
--Can the Art School grow down without the other 2 schools?  
--Can we save ourselves separate from the others? * From an alternate perspective, it seems as if the other two schools have already "saved themselves" as individual entities. What does this mean for the art school & our school as a whole?*
+- Can the Art School grow down without the other 2 schools?  
+- Can we save ourselves separate from the others? * From an alternate perspective, it seems as if the other two schools have already "saved themselves" as individual entities. What does this mean for the art school & our school as a whole?*
 
 3. what kind of reactions she feels are coming from the administration
 how much heat she's personally taking that we don't know about
