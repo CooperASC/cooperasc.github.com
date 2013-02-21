@@ -38,3 +38,11 @@ Some faculty mentioned that they put together the Summer Writing Program and cou
 
 JB reinforced his earlier point that because the HSS Faculty voted to reaffirm the mission statement last year then how could they create new programs because "you can't create new programs without charging."
 
+
+
+
+
+
+"Ok, The SOA faculty did a thing and you did this in response and the thing you did in response is...not positive, how is that not punitive?!"
+
+and he said: "the, the, the trustees are not, and, y'know, at this point, y'know, they, uhhhh, the board is taking ownership of this, I can tell you very categorically, the SOA can not see itself admitting another class without a funding model. It's just not gonna happen."
