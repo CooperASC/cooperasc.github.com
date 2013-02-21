@@ -28,7 +28,7 @@ What's with the security. can you tell us how much it's costing. Why are they pa
 
 7. Let's talk about Bloomberg.
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 original:
