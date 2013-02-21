@@ -31,6 +31,7 @@ I'm tired to the board saying that Saskia doesnt have a "handle" of us or that i
 
 4. What a successful action/result would be in her eyes- I know she seemed happy with yesterday. But it feels like the art school is stuck in a reactionary/defensive position and it would be great to know if she thinks its possible to get out from under this and what it would look like
 
+5. How do we turn Bloomberg, as commencement speaker, into a positive platform? Can Bloomberg help us save Cooper?
 
 Condensed version:
 
@@ -45,3 +46,5 @@ Condensed version:
 5. How can students more effectively communicate with JB and trustees and vice versa? Will this alleviate anything for you?
 
 6. What is a successful action in your eyes? It feels like the art school is stuck in a reactionary/ defensive position and maybe we need to reconceptualize this; do you have any advice or suggestions for what this could look like? 
+
+7. Let's talk about Bloomberg.
