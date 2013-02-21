@@ -11,3 +11,20 @@ HEY GUYS, we need to make a list of topics to set up Saskia for Friday!
 
 What's with the security. can you tell us how much it's costing. Why are they patrolling?
 
+where to go from here
+
+what efforts are being made to oppose and actively seek solutions
+
+answering the quesiton of how to live within our means
+
+walids point about $40m
+and his school running on 10-12m
+how can we grow down
+
+we've been tryin to answer this since forever ago
+can the art school grow down within itself only? in a fair way?
+
+can we save ourselves seperate form the others?
+
+
+
