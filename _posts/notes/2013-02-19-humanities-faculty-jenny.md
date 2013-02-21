@@ -1,6 +1,10 @@
 ---
-layout: default
+title: Notes from Feb 19 HSS Faculty Meeting
+notetaker: jenny eagleton
 published: false
+layout: notes-single
+category: notes
+filepath: _posts/notes/2013-02-13-bharucha-response.md
 ---
 
 HSS Faculty Meeting February 19, 2013 12:15-1:50 Room ll101
