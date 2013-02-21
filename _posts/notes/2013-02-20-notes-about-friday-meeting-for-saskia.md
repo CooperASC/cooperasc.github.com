@@ -16,19 +16,13 @@ HEY GUYS, we need to make a list of topics to set up Saskia for Friday!
 
 1. What’s with the security. can you tell us how much it’s costing. Why are they patrolling?
 
-2. Where to go from here?
-
-what efforts are being made to oppose and actively seek solutions?
-
-Conversation about how we can/ can we live within our means?
-
-walids point about $40m, and his school running on 10-12m
-how can we grow down?
-
-we've been tryin to answer this since forever ago
-can the art school grow down within itself only? in a fair way?
-
-can we save ourselves separate form the others?
+2. Where to go from here?:
+-what efforts are being made to oppose and actively seek solutions?
+-Conversation about how we can/ can we live within our means? (Walids point about $40m, and his school running on 10-12m)
+-How can we grow down?
+-We've been tryin to answer this since forever ago
+-Can the art school grow down within itself only? in a fair way?
+-Can we save ourselves separate from the others?
 
 3. what kind of reactions she feels are coming from the administration
 how much heat she's personally taking that we don't know about
