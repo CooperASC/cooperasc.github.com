@@ -26,6 +26,22 @@ HEY GUYS, we need to make a list of topics to set up Saskia for Friday!
 
 3. what kind of reactions she feels are coming from the administration
 how much heat she's personally taking that we don't know about
-How if at all she can convey that or create a process where those board/admin complaints are voiced to students so we can respond and not just to people like Day and Saskia bearing the brunt.
-I'm tired to the board justifying that saskia doesnt have a "handle" of us or that if Day wasn't picking the admissions the applicants wouldnt be writing these things.  
--What a successful action/result would be in her eyes- i know she seemed happy with yesterday. But it feels like the art school is stuck in a reactionary/defensive position and it would be great to know if she thinks its possible to get out from under this and what it would look like
+How, if at all, she can convey that or create a process where those board/admin complaints are voiced to students so we can respond and not just to people like Day and Saskia bearing the brunt.-- How can students more effectively communicate with trustees and vice versa?
+I'm tired to the board saying that Saskia doesnt have a "handle" of us or that if Day wasn't picking the admissions the applicants wouldnt be writing these things. 
+
+4. What a successful action/result would be in her eyes- I know she seemed happy with yesterday. But it feels like the art school is stuck in a reactionary/defensive position and it would be great to know if she thinks its possible to get out from under this and what it would look like
+
+
+Condensed version:
+
+1. Security, what's the deal with it? Do you know how much it's costing the school? Why are they patrolling? There's a rumor going around that they've been instructed to watch out for students gathering, have you heard about this? 
+
+2. Let's talk about the future and what we're doing about it now: What efforts are being made to find 'new' solutions by the art school? 
+
+3. How do the other deans feel about what's going on with ED?
+
+4. What kinds of reactions are you seeing from JB and BOT? Can you tell us about your position in the situation, the kind of heat you're taking that the student body doesn't really hear about. 
+
+5. How can students more effectively communicate with JB and trustees and vice versa? Will this alleviate anything for you?
+
+6. What is a successful action in your eyes? It feels like the art school is stuck in a reactionary/ defensive position and maybe we need to reconceptualize this; do you have any advice or suggestions for what this could look like? 
