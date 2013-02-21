@@ -1,6 +1,6 @@
 ---
 title: Notes from Feb 19 HSS Faculty Meeting
-notetaker: jenny eagleton
+notetaker: Jenny Eagleton
 published: false
 layout: notes-single
 category: notes
