@@ -27,5 +27,6 @@ how can we grow down?
 
 we've been tryin to answer this since forever ago
 can the art school grow down within itself only? in a fair way?
+
+can we save ourselves separate form the others?
 --
-can we save ourselves seperate form the others?
