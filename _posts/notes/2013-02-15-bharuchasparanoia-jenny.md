@@ -1,6 +1,6 @@
 ---
 title: Letter regarding President Bharucha's paranoia
-notetaker: jenny eagleton
+notetaker: Jenny Eagleton
 tags: notes
 
 # SITE STUFF YOU CAN EDIT
