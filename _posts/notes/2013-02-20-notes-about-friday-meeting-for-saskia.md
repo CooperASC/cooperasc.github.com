@@ -16,7 +16,7 @@ HEY GUYS, we need to make a list of topics to set up Saskia for Friday!
 
 1. What’s with the security. can you tell us how much it’s costing. Why are they patrolling?
 
-2. where to go from here
+2. Where to go from here?
 
 what efforts are being made to oppose and actively seek solutions?
 
