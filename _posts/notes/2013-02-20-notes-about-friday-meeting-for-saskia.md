@@ -1,14 +1,15 @@
 ---
-title: Qs and Topics for Saskia for Feb 22 meeting w all student body 
+title: Questions and Topics for February 22nd Student Body Meeting with Saskia Bos
 notetaker: Jenny Eagleton
 published: true
 layout: notes-single
 category: notes
+tags: student-body
 filepath: _posts/notes/2013-02-13-bharucha-response.md
 
 ---
 
-##Condensed version:
+## Condensed version:
 
 1. Security, what's the deal with it? Do you know how much it's costing the school? Why are they patrolling? There's a rumor going around that they've been instructed to watch out for students gathering, have you heard about this? 
 
@@ -25,7 +26,7 @@ filepath: _posts/notes/2013-02-13-bharucha-response.md
 7. Let's talk about Bloomberg.
 
 **********************************************************************
-##original:
+## Original:
 1. What’s with the security. can you tell us how much it’s costing. Why are they patrolling?
 
 2. Where to go from here?:
