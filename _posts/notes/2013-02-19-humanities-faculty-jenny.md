@@ -36,11 +36,76 @@ JB says that he sees the humanities at "the core of learning" and "at the core o
 
 Eagleton explained that she was asking about the role of the HSS Faculty, rather than in terms of "academic planning," "financial planning." i.e. why weren't the HSS Faculty included in the charge made by JB in August.
 
-JB: "I didn't see a clear way that the HSS Faculty could be given a charge in this way" "HSS did vote to affirm awarding full-tuition scholarships to all admitted students." (ME: THIS IS TRUE, THE VOTE HAPPENED LAST SPRING AT THE END OF THE SEMESTER IN AN HSS FULL FACULTY MEETING.) "Given that, I didn't see how I could charge the Humanities Faculty with generating revenue generating programs."
+JB: "I didn't see a clear way that the HSS Faculty could be given a charge in this way" "HSS did vote to affirm awarding full-tuition scholarships to all admitted students." (Note taker: THIS IS TRUE, THE VOTE HAPPENED LAST SPRING AT THE END OF THE SEMESTER IN AN HSS FULL FACULTY MEETING.) JB: "Given that, I didn't see how I could charge the Humanities Faculty with generating revenue generating programs."
 
 Some faculty mentioned that they put together the Summer Writing Program and could develop a professional writing program, perhaps a certificate or degree? This has not really been discussed.
 
 JB reinforced his earlier point that because the HSS Faculty voted to reaffirm the mission statement last year then how could they create new programs because "you can't create new programs without charging."
+
+Some members of the committee questioned this, referring to the "mission"
+
+JB explained that the "mission" is not the same as the "mission statement" and that the person speaking meant "mission statement" and that the "mission" is the thing written in the charter that we are legally bound to and the language of the "mission statement" is extremely ambiguous. JB went on to explain that the School of Art faculty seems to think the "mission" and the "mission statement."
+
+there was a conversation regarding the particular ambiguity of the mission statement, found in "The College admits **undergraduates** solely on merit and awards full scholarships to all enrolled students."
+
+JB asked P. Buckley if the School of Art faculty was reading the mission statement "differently."
+
+PB: "they are taking a stance, it's (the SOA faculty's interpretation of the Mission Statement) clear.
+
+JB: "It's (the meaning of the mission statement) not clear to the art faculty." He then referred to the vote made in the SOA faculty committee in the fall and their "three step syllogism" that doesn't make sense.
+
+JB to PB: "would you argue, then, Peter, that the SOA's interpretation is an incorrect one?
+
+PB: No, I'm not!
+
+JB (flustered) returns to explaining the difference between a mission and a mission statement, that a "mission statement" is the most recent iteration of a Board of Trustees' statement of the mission of the school. JB brings the conversation back to the financial problems of the Cooper Union.
+
+Student Eagleton refers back to her earlier question about why the HSS faculty was not included in the charge from JB in August 2012 to generate "net revenue."
+
+JB asks Eagleton if she thinks he should give them a revenue charge?
+
+Eagleton balks at the question, explaining that she finds it highly innapropriate considering she is not a representative of the HSS faculty and that JB didn't get the point of her question.
+
+JB asks the comittee of HSS Faculty members: "would the HSS Faculty like a net revenue charge?"
+
+PB: "No! No one wants a net revenue charge!"
+
+JB: "Well then, what's, the question?"
+
+(the question was: What is the role of the HSS faculty in all of this and why weren't they involved in the charge in the fall?)
+
+David Weir Asks JB about selling a % of Chrysler Building holdings.
+
+JB responds to the question and then asks the room to be sensitive to posting this conversation on the internet. "metlife--we've been a laughing stock."  "they're reading this stuff."
+
+PB: "Why are we a laughing stock?"
+
+S. Sayres: "Where are we a laughing stock?"
+
+JB: "In these meetings with them." (note taker: it is unclear who "them" is, unless "them" is metlife?)
+
+JB: "The Way Forward is being represented as a solution and it's making us look like a laughing stock"
+
+PB: "You really think they read "The Way Forward?"
+
+JB: "Everybody reads what's online, our donors do and it's very damaging."
+
+PB: Really, I doubt it.
+
+JB" "Peter, how would you know?! You're not in these meetings!!"
+
+PB: So then...? What?
+
+JB: "You can retract it! the fact that people think that we could get by by without charging in any programs is what makes us look like a laughing stock."
+
+PB: "What? What you're saying is the origin of this document is the idea that tuition could not be charged."
+
+JB: "Don't put words into my mouth, Peter!" The problem is that "The Way Forward has lead hundreds of people to believe that it solves the problem."
+
+
+
+
+
 
 
 
