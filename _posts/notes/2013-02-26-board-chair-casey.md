@@ -11,8 +11,7 @@ filepath: _posts/notes/2013-02-26-board-chair-casey.md
 ## Agenda
 
 - **Early Decision Deferral**
-  - Present [ASC Response to President Bharucha's Letter](http://cooperasc.github.com/notes/2013/02/13/bharucha-response/)
-    - "If the Board does not plan to admit a class to the School of Art due to a misunderstanding, we would like to know that that is the case and have a conversation about it. If that is not the point of this mass-deferral, then Art Student Council would like to know: what is?"
+  - Present [ASC Response to President Bharucha's Letter](http://cooperasc.github.com/notes/2013/02/13/bharucha-response/): "If the Board does not plan to admit a class to the School of Art due to a misunderstanding, we would like to know that that is the case and have a conversation about it. If that is not the point of this mass-deferral, then Art Student Council would like to know: what is?"
   - "Why is there a lack of trust?" is [a question that has been raised](http://cooperasc.github.com/notes/2012/10/18/board-chair-casey/) by Mark in previous Board Chair meetings. Bringing in the Hometest prompts and some real Hometests to understand on a personal level the level of commitment these students had to Cooper and how trust has been broken with them.
   - Why did the administration hastily send [a PR blast](http://cusos.org/response-to-135pm-statement-from-claire-mccarthy-to-press/) directly to press 30 minutes into a student rally for deferred applicants? If there are, as President Bharucha [has stated](http://cooperasc.github.com/notes/2013/02/05/resident-faculty-president-and-trustee-meeting/), many narratives, why is there only one — the voice of the students — that the administration continues to preempt?
 - **Board and Administration Transparency Check-In**
