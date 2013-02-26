@@ -22,14 +22,14 @@ filepath: _posts/notes/2013-02-26-board-chair-casey.md
     - Board meeting dates, times, and locations will no longer be disclosed and they were never intentionally public information.
     - The list of which trustees are on which committees is not public information.
     - The group of trustees reviewing the Reinvention proposals hadn't met yet, wasn't finalized, and it is not public information who is on it.
-    - Many rules are unwritten, such as the Executive Committee's sub-bylaws. (Operating via unwritten rules in a situation where our level of access is so low isn't right.)
+    - Many rules are unwritten, such as the Executive Committee's sub-bylaws. While over-specifying rules and regulations in writing might make the wheels of bureaucracy turn even slower, without board representation or access to meeting minutes the Cooper community at least needs clear protocol regarding decision-making procedures.
 - **Faculty/Student Board Representation**
   - In a faculty / CUFCT meeting Stock was asked about a justification for not having faculty on the board that there is some kind of union-related issue and he denied it. the union is open to negotiation.
   - A petition for student representation on the board had reached 434 signatures as of January 22nd.
 - **ASC Website and Transparency Initiative**
   - As seen in [_The New York Times_](http://www.nytimes.com/2013/02/16/nyregion/cooper-unions-tradition-of-free-tuition-may-be-near-end.html?pagewanted=all)!
   - Diligent record-keeping and consistent openness via Student Council is something I  continue to advocate for and work on. We face an endless stream of fear, uncertainty, and doubt about it from some people — and there is a legitimate need to be sensitive and thoughtful about people's concerns — but so far I've seen only unprecedented excitement and involvement.
-  - We're using Git-backed systems that [expose all changes and record all history](https://github.com/CooperASC/cooperasc.github.com/commits/master) in the background as we work. This is not only accountable in terms of meeting notes, but cool to watch as we collaboratively author documents.
+  - We're using Git-backed systems that [expose all changes and record all history](https://github.com/CooperASC/cooperasc.github.com/commits/master) in the background as we work. This creates a high bar of accountability and transparency by default. It also opens up new possibilities such as authoring documents asynchronously and collaboratively, while maintaining a clear log of changes. For example, here is the [commit history](https://github.com/CooperASC/cooperasc.github.com/commits/master/_posts/notes/2013-02-13-bharucha-response.md) of the letter above.
 - [**Bylaw Archives**](http://github.com/caseyg/bylaws)
   - Thanks for providing them!
   - There are still missing pieces.
