@@ -639,7 +639,7 @@ body#notes-index ul#notes-list li .tags {
 	}
 	#content a:link:after, #content a:visited:after {
 		content: " (" attr(href) ") ";
-    	text-decoration:none;
+    	text-decoration:none!important;
 	}
 	nav#top {
 		display:none;
