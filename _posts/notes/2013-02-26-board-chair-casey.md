@@ -10,14 +10,6 @@ filepath: _posts/notes/2013-02-26-board-chair-casey.md
 
 ## Agenda
 
-- [**Bylaw Archives**](http://github.com/caseyg/bylaws)
-  - Thanks for providing them!
-  - There are still missing pieces.
-  - This kind of transparency and realtime archiving can be integrated directly into administrative workflows.
-- **ASC Website and Transparency Initiative**
-  - As seen in [_The New York Times_](http://www.nytimes.com/2013/02/16/nyregion/cooper-unions-tradition-of-free-tuition-may-be-near-end.html?pagewanted=all)!
-  - Diligent record-keeping and consistent openness via Student Council is something I  continue to advocate for and work on. We face an endless stream of fear, uncertainty, and doubt about it from some people — and there is a legitimate need to be sensitive and thoughtful about people's concerns — but so far I've seen only unprecedented excitement and involvement.
-  - We're using Git-backed systems that [expose all changes and record all history](https://github.com/CooperASC/cooperasc.github.com/commits/master) in the background as we work. This is not only accountable in terms of meeting notes, but cool to watch as we collaboratively author documents.
 - **Early Decision Deferral**
   - Present [ASC Response to President Bharucha's Letter](http://cooperasc.github.com/notes/2013/02/13/bharucha-response/)
     - "If the Board does not plan to admit a class to the School of Art due to a misunderstanding, we would like to know that that is the case and have a conversation about it. If that is not the point of this mass-deferral, then Art Student Council would like to know: what is?"
@@ -35,3 +27,11 @@ filepath: _posts/notes/2013-02-26-board-chair-casey.md
 - **Faculty/Student Board Representation**
   - In a faculty / CUFCT meeting Stock was asked about a justification for not having faculty on the board that there is some kind of union-related issue and he denied it. the union is open to negotiation.
   - A petition for student representation on the board had reached 434 signatures as of January 22nd.
+- **ASC Website and Transparency Initiative**
+  - As seen in [_The New York Times_](http://www.nytimes.com/2013/02/16/nyregion/cooper-unions-tradition-of-free-tuition-may-be-near-end.html?pagewanted=all)!
+  - Diligent record-keeping and consistent openness via Student Council is something I  continue to advocate for and work on. We face an endless stream of fear, uncertainty, and doubt about it from some people — and there is a legitimate need to be sensitive and thoughtful about people's concerns — but so far I've seen only unprecedented excitement and involvement.
+  - We're using Git-backed systems that [expose all changes and record all history](https://github.com/CooperASC/cooperasc.github.com/commits/master) in the background as we work. This is not only accountable in terms of meeting notes, but cool to watch as we collaboratively author documents.
+- [**Bylaw Archives**](http://github.com/caseyg/bylaws)
+  - Thanks for providing them!
+  - There are still missing pieces.
+  - This kind of transparency and realtime archiving can be integrated directly into administrative workflows.
