@@ -622,8 +622,8 @@ body#notes-index ul#notes-list li .tags {
 	}
 	#notes-single header {
 		border-top:1px solid black;
-		padding:15px 0 15px 0;
-		margin:10px 0 10px 0;
+		padding:0px 0 15px 0;
+		margin:15px 0 10px 0;
 	}
 	#content {
 		width: 100%;
