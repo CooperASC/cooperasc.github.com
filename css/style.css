@@ -639,6 +639,7 @@ body#notes-index ul#notes-list li .tags {
 	}
 	#content a:link:after, #content a:visited:after {
 		content: " (" attr(href) ") ";
+    	text-decoration:none;
 	}
 	nav#top {
 		display:none;
