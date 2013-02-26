@@ -618,6 +618,12 @@ body#notes-index ul#notes-list li .tags {
 	body {
 		background: none;
 		color: black;
+    	font-size:.8em;
+	}
+	#notes-single header {
+		border-top:1px solid black;
+		padding:15px 0 15px 0;
+		margin:10px 0 10px 0;
 	}
 	#content {
 		width: 100%;
