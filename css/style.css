@@ -634,12 +634,10 @@ body#notes-index ul#notes-list li .tags {
 		display:none;
 	}
 	#content a:link, #content a:visited {
-		text-decoration:underline;
 		color:black;
 	}
 	#content a:link:after, #content a:visited:after {
 		content: " (" attr(href) ") ";
-    	text-decoration:none!important;
 	}
 	nav#top {
 		display:none;
