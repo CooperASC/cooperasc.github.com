@@ -8,6 +8,13 @@ tags: BOT
 filepath: _posts/notes/2013-03-03-ideas-for-BOT.md
 ---
 
+
+To the Board of Trustees, the following is not an acceptance of charging undergraduate tuition at The Cooper Union, rather it is a list of conditions we demand if the Board decides that undergraduate tuition will be charged. Over the last year and a half, the goal of many in the Cooper community has been, solely, to preserve the full-tuition scholarships. Now--despite the work put in by the faculty of the three schools which in all three, primarily, aimed to prevent the reduction of the full-tuition undergraduate scholarships--we are being told that the full-tuition scholarships are still, very much at risk.
+
+We hold the full-tuition scholarships at the Cooper Union not only because we have benefitted so greatly from them but because our great school is a model for schools around the country and the world where students are overwhelmed with debt when they graduate and can't even get a job to pay off their loans. American higher education today is based on an unsustainable model that is only getting worse.
+
+We do not consider charging undergraduate tuition a sustainable model for The Cooper Union or for the futures of the young people who will be made responsible for paying it.
+
 #Requirements to the BOT if tuition is imminent:
 
 Dear members of the BOT,
