@@ -39,3 +39,6 @@ We would like to reaffirm our support for the mission of the school and reiterat
 
 ##Explaining the choices:
 - That the BOT issue a statement explaining why in addition to the programs outlined in the proposals from the three schools, why undergraduate tuition was still necessary.
+
+##Explaining soon:
+- That these things be made public in a timely manner, within two weeks of the Board's decisions. And that the process for drawing up the contract be announced to the Cooper community before it begins so that appropriate representatives may be selected by each of the constituencies.
