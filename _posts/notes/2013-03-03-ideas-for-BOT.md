@@ -8,19 +8,15 @@ tags: BOT
 filepath: _posts/notes/2013-03-03-ideas-for-BOT.md
 ---
 
+To the Board of Trustees: the following is not an acceptance of reducing the full-tuition undergraduate scholarship at The Cooper Union, rather it is a list of conditions we demand if the Board decides that undergraduate tuition will be charged. Over the last year and a half the goal of many in the Cooper community has been, solely, to preserve the full-tuition scholarships while looking for ways to balance the budget. Now--despite the work put in by the faculty of the three schools which was in all three aimed at preventing the reduction of the full-tuition undergraduate scholarships--we are being told that the full-tuition scholarships are still very much at risk.
 
-To the Board of Trustees: the following is not an acceptance of reducing the full-tuition undergraduate scholarship at The Cooper Union, rather it is a list of conditions we demand if the Board decides that undergraduate tuition will be charged. Over the last year and a half, the goal of many in the Cooper community has been, solely, to preserve the full-tuition scholarships while looking for ways to balance the budget. Now--despite the work put in by the faculty of the three schools which in all three, primarily, aimed to prevent the reduction of the full-tuition undergraduate scholarships--we are being told that the full-tuition scholarships are still, very much at risk.
-
-We hold the full-tuition scholarships at the Cooper Union sacred not only because we have benefitted so greatly from them but because our great school is a model for schools around the country and the world where students are loaded with debt when they graduate and, in spite of their expensive degree, can't even get a job. American higher education today is based on a model that is unsustainable because there is a disproportionate return to the investment in the form of $40,000 per year tuition. What is the 'structural deficit' of the average American college student when they graduate, when they're 25, when they're 30?
-
-that is only getting worse.
+We hold the full-tuition scholarships at the Cooper Union sacred not only because we have benefitted from them but because our school is a model for schools around the country and the world where students are stacked with debt when they graduate and, in spite of their expensive degree, can't even get a job. American higher education today is based on a model that is unsustainable because there is a disproportionate return on the investment in the form of $40,000 per year tuition. What is the 'structural deficit' of the average American college student when they graduate with so much debt? when they're 25? when they're 30?
 
 There is a growing trend by young people in America today to not go to college or to drop out of college because this disproportionate return on their investment is so great.
 
 Cooper Union graduates have the luxury of not graduating with $120,000 in debt. It's sad that, here, we call it a luxury when throughout Europe and the world free education is considered a right.
 
-
-We do not consider charging undergraduate tuition a sustainable model for The Cooper Union or for the futures of the young people who will be made responsible for paying it. 
+We do not consider charging undergraduate tuition a sustainable model for The Cooper Union or for the futures of the young people who will be made responsible for paying it and, therefore, hold ourselves to be guardians of this 
 
 We would like to reaffirm our support for the mission statement of the school as it stands and be clear that we believe reducing the full-tuition undergraduate scholarship will undermine the integrity of the The Cooper Union and will adversely affect the excellence of the institution.
 
