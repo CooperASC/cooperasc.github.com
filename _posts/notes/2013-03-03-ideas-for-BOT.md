@@ -1,3 +1,13 @@
+---
+title: Recommendations to the BOT if tuition is imminent
+notetaker: 
+published: false
+layout: notes-single
+category: notes
+tags: BOT
+filepath: _posts/notes/2013-03-03-ideas-for-BOT.md
+---
+
 #Recommendations to the BOT if tuition is imminent:
 
 Dear members of the BOT,
@@ -10,4 +20,4 @@ we understand that, despite the proposals submitted (or soon to be submitted) by
 - That the BOT make available the total projected revenue from all the different revenue generating options selected and that the #s be broken down, explaining the projected revenue from each change (i.e. charging undergraduate tuition) and each BOT accepted program submitted by one of the three schools. 
 
 ##Explaining the choices:
-- That the BOT issue a statement explaining why in addition to the programs outlined in the proposals from the three schools, why undergraduate tuition was still necessary. 
+- That the BOT issue a statement explaining why in addition to the programs outlined in the proposals from the three schools, why undergraduate tuition was still necessary.
