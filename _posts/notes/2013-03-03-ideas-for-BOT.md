@@ -29,7 +29,7 @@ We understand that, despite the proposals submitted (or soon to be submitted) by
 
 ##Explaining the numbers:
 - That the BOT make available the total projected revenue from all the different revenue generating options selected and that the #s be broken down, explaining the projected revenue from each change (i.e. charging undergraduate tuition) and each BOT accepted program submitted by one of the three schools.
-- That the BOT explain the bare minimum new structural revenue needed to balance our budget (would be nice to see numbers for the next few five or so years and how inflation would change the number needed). 
+- That the BOT explain the bare minimum new structural revenue needed to balance our budget (would be nice to see numbers for the next five or so years and how inflation would change the number needed). 
 - That the BOT, if the projected new structural revenue is greater than that bare minimum number, explain why that decision was made and what benefits that has.
 
 ##Explaining the choices:
