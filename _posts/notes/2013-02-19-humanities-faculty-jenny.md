@@ -1,7 +1,7 @@
 ---
 title: Notes from Feb 19 HSS Faculty Meeting
 notetaker: Jenny Eagleton
-published: false
+published: true
 layout: notes-single
 category: notes
 filepath: _posts/notes/2013-02-13-bharucha-response.md
@@ -103,7 +103,11 @@ PB: "What? What you're saying is the origin of this document is the idea that tu
 JB: "Don't put words into my mouth, Peter!" The problem is that "The Way Forward has lead hundreds of people to believe that it solves the problem."
 
 
+...
 
+MORE TO ADD IN HERE
+
+...
 
 
 
