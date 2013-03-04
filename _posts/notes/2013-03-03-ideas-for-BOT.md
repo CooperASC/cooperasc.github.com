@@ -22,7 +22,6 @@ We aspire to be a radical model to the world, to do in this millenium an updated
 
 #Requirements to the BOT if tuition is imminent:
 
-Dear members of the BOT,
 we understand that, despite the proposals submitted (or soon to be submitted) by the three schools to generate tuition charging programs to save the full-tuition undergraduate scholarships, it is likely that the full-tuition undergraduate scholarships will still be reduced. If the BOT that this is necessary, we ask some things of you:
 
 ##Ensuring reversibility:
