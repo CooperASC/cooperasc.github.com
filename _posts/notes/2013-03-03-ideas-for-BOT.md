@@ -22,10 +22,10 @@ We aspire to be a radical model to the world, to do in this millenium an updated
 
 #Requirements to the BOT if tuition is imminent:
 
-We understand that, despite the proposals submitted (or soon to be submitted) by the three schools to generate tuition charging programs to save the full-tuition undergraduate scholarships, it is likely that the full-tuition undergraduate scholarships will still be reduced. If the BOT that this is necessary, we ask some things of you:
+We understand that, despite the proposals submitted (or soon to be submitted) by the three schools to generate tuition charging programs to save the full-tuition undergraduate scholarships, it is likely that the full-tuition undergraduate scholarships will still be reduced. If the BOT determines--in spite of the work done by the community over the last year and a half to avoid exactly this--that reducing the full-tuition undergraduate scholarships is necessary, we ask some things of you:
 
 ##Ensuring reversibility:
-- That the establishment of a reduction of the full-tuition scholarships be done with a legal contract attached. The contract should not be longer than 5 years and when the contract is up, the school's full-tuition scholarships return. To renew the contract, the BOT should be obligated to work with the Cooper community, as soon as the contract to reduce the scholarship is signed, to develop a sustainable financial model that doesn't involve undergraduate tuition. We see undergraduate tuition at Cooper Union to be only a temporary measure to help us solve our structural deficit. 
+- That the establishment of a reduction of the full-tuition scholarships be done with a legal contract attached. The contract should not be longer than 5 years and when the contract is up, the school's full-tuition scholarships return. To renew the contract, the BOT should be obligated to begin working with the Cooper community, as soon as the contract to reduce the scholarship is signed, to develop a sustainable financial model that doesn't involve undergraduate tuition. We see undergraduate tuition at Cooper Union to be only a temporary measure to help us solve our structural deficit. 
 
 ##Explaining the numbers:
 - That the BOT make available the total projected revenue from all the different revenue generating options selected and that the #s be broken down, explaining the projected revenue from each change (i.e. charging undergraduate tuition) and each BOT accepted program submitted by one of the three schools. 
@@ -36,4 +36,7 @@ We understand that, despite the proposals submitted (or soon to be submitted) by
 - That the BOT issue a statement explaining why in addition to the programs outlined in the proposals from the three schools, why undergraduate tuition was still necessary.
 
 ##Explaining soon:
-- That these things be made public in a timely manner, within two weeks of the Board's decisions. And that the process for drawing up the contract be announced to the Cooper community before it begins so that appropriate representatives may be selected by each of the constituencies.
+- That these things be made public in a timely manner, within two weeks of the Board's public announcement of their decisions, which we are expecting in late March. And that the process for drawing up the contract be announced to the Cooper community before it begins so that appropriate representatives may be selected by each of the constituencies.
+
+##Explaining well:
+- We encourage you to work with a graphic designer (we've got some great ones studying at Cooper) to make this information more legible to the Cooper community.
