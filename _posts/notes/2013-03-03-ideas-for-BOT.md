@@ -22,7 +22,7 @@ We aspire to be a radical model to the world, to do in this millenium an updated
 
 #Requirements to the BOT if tuition is imminent:
 
-we understand that, despite the proposals submitted (or soon to be submitted) by the three schools to generate tuition charging programs to save the full-tuition undergraduate scholarships, it is likely that the full-tuition undergraduate scholarships will still be reduced. If the BOT that this is necessary, we ask some things of you:
+We understand that, despite the proposals submitted (or soon to be submitted) by the three schools to generate tuition charging programs to save the full-tuition undergraduate scholarships, it is likely that the full-tuition undergraduate scholarships will still be reduced. If the BOT that this is necessary, we ask some things of you:
 
 ##Ensuring reversibility:
 - That the establishment of a reduction of the full-tuition scholarships be done with a legal contract attached. The contract should not be longer than 5 years and when the contract is up, the school's full-tuition scholarships return. To renew the contract, the BOT should be obligated to work with the Cooper community, as soon as the contract to reduce the scholarship is signed, to develop a sustainable financial model that doesn't involve undergraduate tuition. We see undergraduate tuition at Cooper Union to be only a temporary measure to help us solve our structural deficit. 
