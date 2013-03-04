@@ -36,7 +36,7 @@ We understand that, despite the proposals submitted (or soon to be submitted) by
 - That the BOT issue a statement explaining why in addition to the programs outlined in the proposals from the three schools, why undergraduate tuition was still necessary.
 
 ##Explaining soon:
-- That these things be made public in a timely manner, within two weeks of the Board's public announcement of their decisions, which we are expecting in late March. And that the process for drawing up the contract be announced to the Cooper community before it begins so that appropriate representatives may be selected by each of the constituencies.
+- That these things be made public in a timely manner, within two weeks of the Board's public announcement of their decisions, which we are expecting in late March. And that the plan to draw up the contract be announced to the Cooper community before it begins so that appropriate representatives may be selected by each of the constituencies.
 
 ##Explaining well:
 - We encourage you to work with a graphic designer (we've got some great ones studying at Cooper) to make this information more legible to the Cooper community.
