@@ -14,11 +14,11 @@ We hold the full-tuition scholarships at the Cooper Union sacred not only becaus
 
 There is a growing trend by young people in America today to not go to college or to drop out of college because this disproportionate return on their investment is so great.
 
-Cooper Union graduates have the luxury of not graduating with $120,000 in debt. It's sad that, here, we call it a luxury when throughout Europe and the world free education is considered a right.
+Cooper Union graduates have the luxury of not graduating with $120,000 in debt. It's sad that, here, we call it a luxury when throughout Europe and the world tuition-free education is a right.
 
-We do not consider charging undergraduate tuition a sustainable model for The Cooper Union or for the futures of the young people who will be made responsible for paying it and, therefore, hold ourselves to be guardians of this 
+We do not consider charging undergraduate tuition a sustainable model for The Cooper Union as a institution of higher education in America, or for the futures of the young people who will be made responsible for paying it and, therefore, cannot imagine how Cooper Union will contribute positively to the future of higher education in America. 
 
-We would like to reaffirm our support for the mission statement of the school as it stands and be clear that we believe reducing the full-tuition undergraduate scholarship will undermine the integrity of the The Cooper Union and will adversely affect the excellence of the institution.
+We aspire to be a radical model to the world, to do in this millenium an updated version of what Peter Cooper did 150 years ago. We should not only be on the vanguard in our classrooms, but also in the way we conceive our schools and our governance. This requires communication and generous collaboration between all of the constituencies that make up the Union, this is what we hope for. 
 
 #Requirements to the BOT if tuition is imminent:
 
