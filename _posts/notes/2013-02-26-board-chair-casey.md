@@ -8,6 +8,10 @@ tags: board-chair
 filepath: _posts/notes/2013-02-26-board-chair-casey.md
 ---
 
+## Notes
+
+[Detailed notes](http://cooperarsc.github.com/notes/2013/02/26/boardoftrustees-oliver/) from this meeting were posted by Architecture Student Council.
+
 ## Agenda
 
 - **Early Decision Deferral**
