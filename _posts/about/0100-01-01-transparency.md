@@ -7,24 +7,15 @@ permalink: /about/transparency/
 filepath: _posts/about/0100-01-01-transparency.md
 ---
 
-## Full, Public History
-
-You can see a full log of changes to this site on [our Github](https://github.com/CooperASC/cooperasc.github.com/commits/master). For example, here is the history of [this page](https://github.com/CooperASC/cooperasc.github.com/commits/master/_posts/about/0100-01-01-transparency.md). Most [notes](/notes) pages include a sidebar providing easy access to the document's history, as well as an online text editor that allows you to submit suggested changes. 
-
-Unlike other parts of Cooper's governance which act only as entities (e.g. "The Board") or only as individuals (e.g. "The President"), we believe that individual and group responsibilities are not mutually exclusive. Generating a public record of our individual contributions while we work strengthens our accountability and allows us to work together asynchronously. For example, we used our website to [collaboratively author](https://github.com/CooperASC/cooperasc.github.com/commits/master/_posts/notes/2013-02-13-bharucha-response.md) a [letter to the administration](http://cooperasc.github.com/notes/2013/02/13/bharucha-response/) which we then ratified and published.
-
 ## Living Documents
 
-The documents on this site are living documents, meaning they are likely to change over time. In response to our administration's slow, bureaucractic processes of approval that have often left us out of touch, we strive to publish information as soon as possible and then improve it over time. Anyone on Student Council may edit any document at any time, and the public is also invited to suggest edits for us to approve. This principle of [eventual consistency](http://prose.io/help/eventually-consistent.html) has been articulated nicely by a group of programmers called Prose:
+The documents on this site are living documents, meaning they are likely to change over time. In response to our administration's slow, bureaucractic processes of approval that have continuously left the community in the dark, we try to publish information as soon as thoughtfully possible and then improve it over time with the help of our readers. By this principle of [eventual consistency](http://prose.io/help/eventually-consistent.html), anyone on Student Council may edit any document at any time, and the public is also invited to suggest edits for us to approve.
 
-> Most things in life are not perfect. That’s also true for your writings. Every writer, journalist or scientist can tell you about it. There will always be room for improvement.
+## Full, Public History
 
-> Essentially, there are two ways you can approach this problem:
+You can see a full log of changes to this site on [our Github](https://github.com/CooperASC/cooperasc.github.com/commits/master). For example, here is the history of [this page](https://github.com/CooperASC/cooperasc.github.com/commits/master/_posts/about/0100-01-01-transparency.md). Most [notes](/notes) pages include a sidebar providing easy access to the document's history, as well as an online text editor that allows anybody to submit suggested changes. 
 
-> 1. Invest an infinite amount of time into reviewing before getting a supposedly perfect text out of the door.
-> 2. Publish early and continuously improve your content once it’s out, ideally with the help of your readers.
-
-> Much like in the spirit of Open Source development, we claim that continuously improving content in the open leads to better results than applying the best review process available.
+Unlike other parts of Cooper's governance which act only as entities (e.g. "The Board") or only as individuals (e.g. "The President"), we believe that individual and group responsibilities are not mutually exclusive. Generating a public record of our individual contributions while we work strengthens our accountability and allows us to work together asynchronously. For example, we used our website to [collaboratively](https://github.com/CooperASC/cooperasc.github.com/commits/master/_posts/notes/2013-02-13-bharucha-response.md) author a [letter to the administration](http://cooperasc.github.com/notes/2013/02/13/bharucha-response/) which we then ratified and published.
 
 ## Types of Notes
 
