@@ -1,6 +1,11 @@
 ---
-layout: default
+title: Saskia Meeting
+notetaker: Andy Overton
 published: true
+category: notes
+tags: Saskia meeting
+layout: notes-single
+filepath: _posts/notes/2013-03-11-saskia-meeting-andy.md
 ---
 
 **Saskia meeting**
@@ -10,7 +15,7 @@ published: true
 	* Grad school seminar
 	* Student/alum relations
 
-* EYOS-
+* EOYS-
 	* how to organize? thematic, by class, by medium
 	* propose new models for the faculty/student groupings
 	* "dont make a ghetto for the protest material"
@@ -21,5 +26,4 @@ published: true
 	* saskia suggests increasing number of speakers to 5
 	* including more faculty? want to keep the speakers closer in age
 	* would be good to have back and forth between speakers
-
-
+    
