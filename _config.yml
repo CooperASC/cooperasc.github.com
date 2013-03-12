@@ -1,2 +1,12 @@
 permalink: pretty
 exclude: deploy.php
+prose:
+  metadata:
+    "_posts/notes": |
+      category: notes
+      layout: notes-single
+      published: true
+      title: Meeting or Note Title
+      notetaker: Firstname Lastname
+      tags: committee-name
+      filepath: _posts/notes/filename.md
