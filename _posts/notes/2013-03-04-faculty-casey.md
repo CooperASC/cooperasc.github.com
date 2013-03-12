@@ -1,7 +1,7 @@
 ---
 category: notes
 layout: notes-single
-published: false
+published: true
 title: Emergency Meeting of The Faculty of the School of Art
 notetaker: Casey Gollan
 tags: faculty
