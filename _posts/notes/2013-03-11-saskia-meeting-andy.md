@@ -21,9 +21,8 @@ filepath: _posts/notes/2013-03-11-saskia-meeting-andy.md
 	* "dont make a ghetto for the protest material"
 	* free school-amount of space? who teaches? scheduled classes? what classes? needs * fleshing out before it can be talked about
 	* displaying alumni work next to student work
-
+    * Discussed this: http://prose.io/#CooperASC/cooperasc.github.com/blob/master/_posts/notes/2013-02-26-eoys.md
 * grad school seminar-
 	* saskia suggests increasing number of speakers to 5
 	* including more faculty? want to keep the speakers closer in age
 	* would be good to have back and forth between speakers
-    
