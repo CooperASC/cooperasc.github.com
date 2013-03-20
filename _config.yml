@@ -1,5 +1,6 @@
 permalink: pretty
 prose:
+  rooturl: "_posts"
   metadata:
     "_posts/notes": |
       category: notes
