@@ -39,8 +39,8 @@ The easiest way to add new notes is through an online text editor called Prose.
 1. Visit [http://prose.io](http://prose.io/) and sign in with your Github account
 2. Under Organizations, find [`CooperASC`](http://prose.io/#CooperASC) and click it to enter our group's files
 3. Click [`CooperASC.github.com`](http://prose.io/#CooperASC/cooperasc.github.com) to enter the contents of this site
-4. Click the folder for [`Notes`](http://prose.io/#CooperASC/cooperasc.github.com/_posts/notes)
-5. In the top right click [`+ New File`](http://prose.io/#CooperASC/cooperasc.github.com/_posts/notes/new), to be taken to the editing interface for a new note
+4. Click the folder for [`Notes`](http://prose.io/#CooperASC/cooperasc.github.com/tree/master/_posts/notes)
+5. In the top right click [`+ New File`](http://prose.io/#CooperASC/cooperasc.github.com/new/master/_posts/notes), to be taken to the editing interface for a new note
 
 SCREENSHOT OF PROSE NEW FILE
 
