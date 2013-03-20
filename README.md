@@ -42,7 +42,7 @@ The easiest way to add new notes is through an online text editor called Prose.
 4. Click the folder for [`Notes`](http://prose.io/#CooperASC/cooperasc.github.com/tree/master/_posts/notes)
 5. In the top right click [`+ New File`](http://prose.io/#CooperASC/cooperasc.github.com/new/master/_posts/notes), to be taken to the editing interface for a new note
 
-SCREENSHOT OF PROSE NEW FILE
+![](img/readme/prose.png)
 
 ### Editing a note
 
@@ -52,7 +52,7 @@ There are three parts of every note
 2. **Metadata** — structured information like title, author, and tags
 3. **Content** — where your write your content
 
-ANNOTATED SCREENSHOT OF PROSE NEW FILE
+![](img/readme/prose-new-metadata.png)
 
 #### 1. Filename
 
