@@ -35,7 +35,7 @@ filepath: _posts/notes/2013-02-13-bharucha-response.md
 	- What does it mean to 'grow down' & if this is effective, how do we go about doing so?
 
 	- Can the Art School grow down without the other 2 schools?  
-	- Can we save ourselves separate from the others? * From an alternate perspective, it seems as if the other two schools have already "saved themselves" as individual entities. What does this mean for the art school & our school as a whole?*
+	- Can we save ourselves separate from the others? **From an alternate perspective, it seems as if the other two schools have already "saved themselves" as individual entities. What does this mean for the art school & our school as a whole?**
 
 3. what kind of reactions she feels are coming from the administration
 how much heat she's personally taking that we don't know about
