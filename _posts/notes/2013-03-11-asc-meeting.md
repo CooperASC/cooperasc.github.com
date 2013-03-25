@@ -4,8 +4,8 @@ layout: notes-single
 published: true
 title: ASC weekly meeting
 notetaker: Andy Overton
-tags: committee-name
-filepath: _posts/notes/filename.md
+tags: student-council
+filepath: _posts/notes/2013-03-11-asc-meeting.md
 ---
 
 # ASC meeting, yo
