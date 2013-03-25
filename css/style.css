@@ -399,6 +399,14 @@ h2 {
 
 h3 {
 	font-weight:800;
+	font-size:16px!important;
+	padding-bottom:0;
+	margin-bottom:0;
+}
+
+p {
+	padding-top:5px!important;
+	margin-top:0;
 }
 
 nav ul, body#notes-index ul#notes-list {
