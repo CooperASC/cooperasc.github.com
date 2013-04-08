@@ -12,3 +12,4 @@ filepath: _posts/notes/filename.md
 April 8 meeting agenda:
 
 EOYS update
+this weird painting thing
