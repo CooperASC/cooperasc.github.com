@@ -25,12 +25,16 @@ ASC Structure
 Next Year Planning  
 Leanne Miller
 
-(EOYS was skipped and postoned for next meeting)  
+(EOYS was skipped and postoned for next meeting)
 
-**Party:**   
+***
+
+###Party:  
+
 -Tommy would like ASC to host the Shop Party  
 -Asking students if they would each contribute 5 to 10 dollars to go towards party    
 -Need help w/preparation and cleaning up before and after party  
--Figure out necessary budget
-
--
+- Budget for party
+  - security guard    
+    - alcohol  
+    - food    
