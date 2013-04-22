@@ -17,7 +17,7 @@ filepath: _posts/notes/2013-04-22-asc-agenda-notes-devonn-francis.md
 #ASC Agenda   
 *When adding things to the list, put your name by it as well so we know who has the floor to introduce the agenda item*  
 
-Do this first if you haven't already!  
+**Do this first if you haven't already!**  
 [Meeting Location Poll](http://www.doodle.com/xh4v2m4v6qichg5f)  
 
 -Party Stuff (DeVonn)
