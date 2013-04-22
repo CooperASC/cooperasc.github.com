@@ -32,9 +32,11 @@ Leanne Miller
 ###Party:  
 
 -Tommy would like ASC to host the Shop Party  
--Asking students if they would each contribute 5 to 10 dollars to go towards party    
--Need help w/preparation and cleaning up before and after party  
+-Meeting w/Saskia  
+-Asking students if they would each contribute 5 to 10 dollars to go towards party   instead of draining ASC budget  
+-Budget could then be used to suppliment whatever costs student donations don't cover  
+-Need help w/preparation and cleaning up before and after party    
 - Budget for party
   - security guard    
     - alcohol  
-    - food    
+    - food
