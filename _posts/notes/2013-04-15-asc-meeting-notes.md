@@ -40,3 +40,21 @@ Leanne Miller
   - security guard    
     - alcohol  
     - food
+    
+###ASC Structure  
+*DeVonn gives long spiel in regards to making commitments and respecting other peoples time ( if you missed it then ask me in person).*   
+
+-Set date to meet during the summer   
+-What can we do to be unique and still organized, and professional?  
+-How does each student rep envision a better art school propogated by ASC? Go home and think about this.  
+
+###Next Year Planning
+Lets be proactive:
+
+-Set a calendar for things you want to see next year.
+-Set a deadline for things you want to see next year.
+-Only do what you have fun doing next year.
+*TBC*
+
+###Leanne Miller
+-Asher setting a time to talk to Saskia and Mike about the ordeal 
