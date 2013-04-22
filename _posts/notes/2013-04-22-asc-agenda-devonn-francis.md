@@ -21,6 +21,6 @@ Do this first if you haven't already!
 [Meeting Location Poll](http://www.doodle.com/xh4v2m4v6qichg5f)  
 
 -Party Stuff (DeVonn)
-[Task List Poll](http://www.doodle.com/e3khqfwzqr3mnhpar859h72h/admin#table)  
+Do this one too:[Task List Poll](http://www.doodle.com/e3khqfwzqr3mnhpar859h72h/admin#table)  
 -Jamshed visit (DeVonn)  
 
