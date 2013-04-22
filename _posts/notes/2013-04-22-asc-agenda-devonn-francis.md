@@ -21,6 +21,6 @@ filepath: _posts/notes/2013-04-22-asc-agenda-notes-devonn-francis.md
 [Meeting Location Poll](http://www.doodle.com/xh4v2m4v6qichg5f)  
 
 -Party Stuff (DeVonn)
-Do this one too:[Task List Poll](http://www.doodle.com/e3khqfwzqr3mnhpar859h72h/admin#table)  
+Do this one too: [Task List Poll](http://www.doodle.com/e3khqfwzqr3mnhpar859h72h/admin#table)  
 -Jamshed visit (DeVonn)  
 
