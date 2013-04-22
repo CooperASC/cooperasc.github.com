@@ -48,13 +48,13 @@ Leanne Miller
 -What can we do to be unique and still organized, and professional?  
 -How does each student rep envision a better art school propogated by ASC? Go home and think about this.  
 
-###Next Year Planning
-Lets be proactive:
+###Next Year Planning  
+Lets be proactive:  
 
--Set a calendar for things you want to see next year.
--Set a deadline for things you want to see next year.
--Only do what you have fun doing next year.
-*TBC*
+-Set a calendar for things you want to see next year.  
+-Set a deadline for things you want to see next year.  
+-Only do what you have fun doing next year.  
+*TBC*  
 
 ###Leanne Miller
--Asher setting a time to talk to Saskia and Mike about the ordeal 
+-Asher setting a time to talk to Saskia and Mike about the ordeal
