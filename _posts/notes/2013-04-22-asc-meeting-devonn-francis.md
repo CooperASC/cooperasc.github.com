@@ -81,4 +81,4 @@ Cheddar Biscuits
 
 ##EOYS  
 Put out a call for proposals (designed by the amazing Julie Harris)  
-Due next Monday 29  
+Due next Monday 29
