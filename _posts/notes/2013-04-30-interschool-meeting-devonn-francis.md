@@ -69,8 +69,9 @@ BE:
 -alumni auction gets snubbed by administation b/c admin wanted money from auction to go to the annual fund.
 -have seen messages from alumni who used to donate and now see how the BOT works.
 
--It may be a good idea to work on this again when we are finished w/finals. 
--
+-It may be a good idea to work on this again when we are finished w/finals. But in the mean time we should look at the Arch. doc. and figure out what we would like to add within the existing Arch. doc. 
+
+
 
 
 
