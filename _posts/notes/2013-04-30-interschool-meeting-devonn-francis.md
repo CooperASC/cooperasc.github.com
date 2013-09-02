@@ -1,16 +1,13 @@
 ---
-# MEETING OR EVENT INFO
-title: Interschool Meeting: Ratifying CU Governance
-notetaker: DeVonn Francis
-tags: sophomore-representative
-
-# SITE STUFF YOU CAN EDIT
-published: true
-
-# SITE STUFF YOU SHOULDN'T EDIT
-layout: notes-single
+published: 
+  - true
+  - "true"
 category: notes
-filepath: _posts/notes/2013-04-30-interschool-meeting-devonn-francis.md
+layout: "notes-single"
+title: Interschool Meeting
+notetaker: DeVonn Francis
+tags: "committee-name"
+filepath: "_posts/notes/2013-04-30-interschool-meeting-devonn-francis.md"
 ---
 
 #Interschool Meeting: 
@@ -72,11 +69,4 @@ BE:
 -It may be a good idea to work on this again when we are finished w/finals. But in the mean time we should look at the Arch. doc. and figure out what we would like to add within the existing Arch. doc. 
 
 *What are the missteps that the board has taken? What should have been different?*  
-e.g. 1. forcing schools to come up w/proposals but given no agency in how they are implimented.   
-
-
-
-
-
-
-
+e.g. 1. forcing schools to come up w/proposals but given no agency in how they are implimented.
