@@ -16,7 +16,7 @@ add to it at will
 report back on:  
 meetings with saskia - peter  
 meetings with baker - andy    
-reserving space? - devonn
+reserving space? - devonn  
 funding/budget - devonn
 
 
