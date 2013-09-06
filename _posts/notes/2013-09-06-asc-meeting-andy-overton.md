@@ -18,5 +18,5 @@ meetings with saskia - peter
 meetings with baker - andy    
 reserving space? - devonn  
 funding/budget - devonn
-
-
+senior council members
+elections
