@@ -7,7 +7,7 @@ layout: "notes-single"
 title: ASC Meeting
 notetaker: Andy Overton
 tags: "committee-name"
-filepath: "_posts/notes/2013-09-16.md"
+filepath: "_posts/notes/2013-09-16-asc-meeting-andy-overton.md"
 ---
 
 #ASC Meeting   
