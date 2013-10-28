@@ -4,8 +4,8 @@ published:
   - "true"
 category: notes
 layout: "notes-single"
-title: Meeting or Note Title
-notetaker: Firstname Lastname
+title: "ASC Meeting 10-28"
+notetaker: Andy Overton
 tags: "committee-name"
 filepath: "_posts/notes/2013-10-28-andy-overton-asc-meeting.md"
 ---
