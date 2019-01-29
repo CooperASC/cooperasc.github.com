@@ -1,5 +1,5 @@
 ---
-title: Cooper&nbsp;Union Art&nbsp;Student&nbsp;Council
+title: ASC
 layout: index
 body_id: index
 filepath: index.md
@@ -11,4 +11,4 @@ Peruse the [about section](/about) to learn more about our [structure](/about/co
 
 ***
 
-🙇💭📨⚡ Have ideas, comments, or questions for Art Student Council? Email <a href="mailto:CUArtCouncil@gmail.com">CUArtCouncil@gmail.com</a> to reach <a href="/people">all of us</a> at once.
+🙇💭📨⚡ Have ideas, comments, or questions for Art Student Council? Email <a href="mailto:asc.cooperunion@gmail.com">asc.cooperunion@gmail.com</a> to reach out.
