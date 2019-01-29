@@ -11,6 +11,6 @@ permalink: /people/charis-jackson-barrios/
 
 # SITE STUFF YOU SHOULDN'T EDIT
 layout: people-single
-category: people
+category: people-2012
 
 ---
