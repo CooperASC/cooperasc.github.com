@@ -84,16 +84,16 @@ body {
 
 a:link,
 a:active {
-	color:white;
+	color:white !important;
 }
 
 a:visited {
-	color:#33333;
+	color:#33333 !important;
 }
 
 a: hover {
-	background-color: white;
-	color:black;
+	background-color: white !important;
+	color:black !important;
 }
 
 a:focus {
