@@ -82,9 +82,22 @@ body {
  * Addresses `outline` inconsistency between Chrome and other browsers.
  */
 
+a:link,
+a:active {
+	color:white;
+}
+
+a:visited {
+	color:#33333;
+}
+
+a: hover {
+	background-color: white;
+	color:black;
+}
+
 a:focus {
 		outline: thin dotted;
-		color: white;
 }
 
 /*
@@ -94,7 +107,6 @@ a:focus {
 a:active,
 a:hover {
 		outline: 0;
-		color: white;
 }
 
 /* ==========================================================================
