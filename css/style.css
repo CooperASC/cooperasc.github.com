@@ -84,6 +84,7 @@ body {
 
 a:focus {
 		outline: thin dotted;
+		color: white;
 }
 
 /*
@@ -93,6 +94,7 @@ a:focus {
 a:active,
 a:hover {
 		outline: 0;
+		color: white;
 }
 
 /* ==========================================================================
