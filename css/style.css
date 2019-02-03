@@ -654,3 +654,11 @@ body#notes-index ul#notes-list li .tags {
 		content: "This page was printed from the website of Cooper Union's Art Student Council (http://asc.cooper.edu). Make sure to check online for updates, as many pages are living documents.";
 	}
 }
+
+/* ==========================================================================
+	 TEMP EDITS
+	 ========================================================================== */
+
+.announcements {
+	align-text: center;
+}
