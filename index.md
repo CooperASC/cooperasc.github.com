@@ -6,33 +6,33 @@ filepath: index.md
 ---
 
 <div class="announcements">
-<h1>THIS SITE IS UNDER CONSTRUCTION</h1>
+# THIS SITE IS UNDER CONSTRUCTION
 
-<h2>Spring 2019 Meeting Dates</h2>
+## Spring 2019 Meeting Dates
 
-Meetings every other Saturday
+<p>Meetings every other Saturday</p>
     
-All students welcome to each and every meeting
+<p>All students welcome to each and every meeting</p>
 
-PETER COOPER SUITE
+<p>PETER COOPER SUITE</p>
 
-7:00pm-8:30pm
+<p>7:00pm-8:30pm</p>
 
-Sat, Jan. 26
+<p>Sat, Jan. 26</p>
 
-Sat, Feb. 9
+<p>Sat, Feb. 9</p>
 
-Sat, Feb. 23
+<p>Sat, Feb. 23</p>
 
-Sat, Mar. 9
+<p>Sat, Mar. 9</p>
 
-Sat, Mar. 23
+<p>Sat, Mar. 23</p>
 
-Sat, Apr. 6
+<p>Sat, Apr. 6</p>
 
-Sat, Apr. 20
+<p>Sat, Apr. 20</p>
 
-Sat, May 4
+<p>Sat, May 4</p>
 
 *~*~*~*~*~*~*~*~*~*~*
 </div>
