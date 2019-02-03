@@ -13,14 +13,14 @@ filepath: index.md
     </br>All students welcome to each and every meeting
     </br>PETER COOPER SUITE
     </br>7:00pm-8:30pm
-      </br>Sat, Jan. 26</li>
-      </br>Sat, Feb. 9</li>
-      </br>Sat, Feb. 23</li>
-      </br>Sat, Mar. 9</li>
-      </br>Sat, Mar. 23</li>
-      </br>Sat, Apr. 6</li>
-      </br>Sat, Apr. 20</li>
-      </br>Sat, May 4</li>
+      </br>Sat, Jan. 26
+      </br>Sat, Feb. 9
+      </br>Sat, Feb. 23
+      </br>Sat, Mar. 9
+      </br>Sat, Mar. 23
+      </br>Sat, Apr. 6
+      </br>Sat, Apr. 20
+      </br>Sat, May 4
    </p>
 </div>
 
