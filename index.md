@@ -7,9 +7,9 @@ filepath: index.md
 
 <div class="announcements">
     
-# THIS SITE IS UNDER CONSTRUCTION
+<h1>HIS SITE IS UNDER CONSTRUCTION</h1>
 
-## Spring 2019 Meeting Dates
+<h2>Spring 2019 Meeting Dates</h2>
 
 <p>Meetings every other Saturday</p>
     
