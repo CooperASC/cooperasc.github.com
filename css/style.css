@@ -660,5 +660,5 @@ body#notes-index ul#notes-list li .tags {
 	 ========================================================================== */
 
 .announcements {
-	align-text: center;
+	text-align: center;
 }
