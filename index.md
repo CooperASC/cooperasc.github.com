@@ -5,9 +5,9 @@ body_id: index
 filepath: index.md
 ---
 
-<h1 class="under-construction">THIS SITE IS UNDER CONSTRUCTION</h1>
-
 <div class="announcements">
+<h1>THIS SITE IS UNDER CONSTRUCTION</h1>
+
 <h2>Spring 2019 Meeting Dates</h2>
 
 Meetings every other Saturday
@@ -15,14 +15,23 @@ Meetings every other Saturday
 All students welcome to each and every meeting
 
 PETER COOPER SUITE
+
 7:00pm-8:30pm
+
 Sat, Jan. 26
+
 Sat, Feb. 9
+
 Sat, Feb. 23
+
 Sat, Mar. 9
+
 Sat, Mar. 23
+
 Sat, Apr. 6
+
 Sat, Apr. 20
+
 Sat, May 4
 
 *~*~*~*~*~*~*~*~*~*~*
