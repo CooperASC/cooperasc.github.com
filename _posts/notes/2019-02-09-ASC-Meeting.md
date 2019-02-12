@@ -64,7 +64,7 @@ filepath: _posts/notes/2019-02-09-asc-meeting.md
 * Sydney talked to sister (former alum) and at another school admin held a memorial service, got together with family
 * Goal: Reach out to student’s family and SoA admin. to help organize an event/service beginning on Monday.
 * ASC needs to fill the void created by a lack of physical communal space by providing an opportunity for a shared psychological space.
-7. Cross-Campus Collaborative
+7. **Cross-Campus Collaborative**
 * A student from SVA invited ASC to join in on their Campus Action Network for NYC schools.
 * (more info: https://www.facebook.com/events/657398994678440/)
 8. **Go-around**
