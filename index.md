@@ -6,8 +6,6 @@ filepath: index.md
 ---
 
 <div class="announcements">
-    
-<h1>THIS SITE IS UNDER CONSTRUCTION</h1>
 
 <h2>Spring 2019 Meeting Dates</h2>
 
