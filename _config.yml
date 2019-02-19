@@ -64,6 +64,7 @@ defaults:
       filepath: _posts/notes/filename.md
       layout: notes-single
       category: notes
+      permalink: /notes/:year/:month/:day/:title
   -
     scope:
       path: ""
