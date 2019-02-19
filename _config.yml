@@ -21,6 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 url: "http://cooperasc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -42,25 +44,37 @@ plugins:
 collections:
   notes:
     output: true
-    category: notes
-    layout: notes-single
-    published: true
-    title: Meeting or Note Title
-    notetaker: Firstname Lastname
-    tags: committee-name
-    filepath: _posts/notes/filename.md
-    layout: notes-single
-    category: notes
   people:
     output: true
-    category: people
-    layout: people-single
-    published: true
-    title: Firstname Lastname
-    class: Senior
-    tags: committee-name
-    preferred_email: email@address.com
-    gravatar_email: email@address.com
-    permalink: /people/firstname-lastname/
   about:
     output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "notes"
+    values:
+      category: notes
+      layout: notes-single
+      published: true
+      title: Meeting or Note Title
+      notetaker: Firstname Lastname
+      tags: committee-name
+      filepath: _posts/notes/filename.md
+      layout: notes-single
+      category: notes
+  -
+    scope:
+      path: ""
+      type: "people"
+    values:
+      category: people
+      layout: people-single
+      published: true
+      title: Firstname Lastname
+      class: Senior
+      tags: committee-name
+      preferred_email: email@address.com
+      gravatar_email: email@address.com
+      permalink: /people/firstname-lastname/
