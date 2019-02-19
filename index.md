@@ -10,7 +10,7 @@ filepath: index.md
 <h2>Spring 2019 Meeting Dates</h2>
 
 <p>Meetings every other Saturday</p>
-    
+
 <p>All students welcome to each and every meeting</p>
 
 <p>PETER COOPER SUITE</p>
@@ -42,4 +42,4 @@ Peruse the [about section](/about) to learn more about our [structure](/about/co
 
 ***
 
-🙇💭📨⚡ Have ideas, comments, or questions for Art Student Council? Email <a href="mailto:asc.cooperunion@gmail.com">asc.cooperunion@gmail.com</a> to reach out.
+🙇💭📨⚡ Have ideas, comments, or questions for Art Student Council? Email <a href="mailto:{{ site.email }}">{{ site.email }}</a> to reach out.

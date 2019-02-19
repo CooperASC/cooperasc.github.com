@@ -11,21 +11,8 @@
 
 <nav id="people">
 	<ul>
-		{% for item in site.categories.people-2018 reversed %}
-		<li>
-			<a href="{{item.url}}" title="{{item.title}}" {% if page.title == item.title %}class="active"{% endif %}>
-			{% include gravatar.html %}<br>
-			<span class="name">{{item.title}}</span>
-		</li>
-		{% endfor %}
-	</ul>
-</nav>
-
-<h2>2012-2013</h2>
-
-<nav id="people">
-	<ul>
-		{% for item in site.categories.people-2012 reversed %}
+		{% assign people = site.people | where: "category", "people-2018" | reversed %}
+		{% for item in people %}
 		<li>
 			<a href="{{item.url}}" title="{{item.title}}" {% if page.title == item.title %}class="active"{% endif %}>
 			{% include gravatar.html %}<br>

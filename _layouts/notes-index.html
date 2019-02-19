@@ -13,7 +13,7 @@ layout: default
 		</form>
 	</div>
 	<ul id="notes-list" class="list">
-		{% for item in site.categories.notes %}
+		{% for item in site.notes reversed %}
 		<li>
 			<a href="{{item.url}}">
 				<h2 class="title">{{item.title}}</h2>
@@ -66,4 +66,3 @@ layout: default
 
   $("#search").focus();
 </script>
-
