@@ -22,8 +22,8 @@ permalink: /reps/
 * Maura O'Connor
 * *(Sub) Eve Axelrod*
 7. **Faculty Student Senate**
-Ashton Carless
-N/A
+* Ashton Carless
+* N/A
 * *(Sub) River Friedman*
 8. **HSS Faculty**
 * Lucas Zeeberg
