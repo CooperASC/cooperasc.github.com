@@ -8,6 +8,10 @@
  * Corrects `block` display not defined in IE 8/9.
  */
 
+body {
+	background-image: url("https://66.media.tumblr.com/80e8261b0efdd685f5c3bd712848833d/tumblr_mlqdv1aHIG1qcf9suo1_250.gif");
+}
+
 article,
 aside,
 details,
