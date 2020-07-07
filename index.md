@@ -13,6 +13,7 @@ filepath: index.md
 
 Join Zoom Meeting https://us02web.zoom.us/j/7360977109
 
+***
 
 We're [a group of art students](/people). (You can [join too](mailto:asc.cooperunion@gmail.com).) We get to go to faculty and administrative meetings within the existing bureaucratic structure at Cooper. We get to vote on behalf of students and [take **notes** which we share](/notes). The school gives us money to throw parties. We're whatever the student body needs their bureaucratic presence to be.
 
