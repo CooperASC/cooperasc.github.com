@@ -10,6 +10,7 @@ filepath: index.md
 Upcoming Art Student Council Meetings
 
 - Tuesday, July 7 @ 2:00pm
+
 Join Zoom Meeting https://us02web.zoom.us/j/7360977109
 
 
