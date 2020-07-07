@@ -10,8 +10,7 @@ filepath: index.md
 <h3> Upcoming Art Student Council Meetings </h3>
 
 - **Tuesday, July 7 @ 2:00pm**
-
--- [Join Zoom Meeting](https://us02web.zoom.us/j/7360977109)
+  - [Join Zoom Meeting](https://us02web.zoom.us/j/7360977109)
 
 ***
 
