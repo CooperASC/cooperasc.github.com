@@ -5,8 +5,6 @@ permalink: /reps/
 ---
 
 1. **Administrative Chairs**
-- Austin Abistado
-- Ashton Carless
 
 2. **Admissions**
 
