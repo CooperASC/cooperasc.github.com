@@ -7,7 +7,7 @@ filepath: index.md
 
 <h1> This website is under construction. </h1>
 
-[Visit our Google Drive folder](https://drive.google.com/drive/folders/1CyBm0rkOotucb0MB5rOy7tP8oAHKrs0c?usp=sharing)
+**[Visit our Google Drive folder](https://drive.google.com/drive/folders/1CyBm0rkOotucb0MB5rOy7tP8oAHKrs0c?usp=sharing)**
 
 
 <h3> Upcoming Art Student Council Meetings </h3>
@@ -17,7 +17,7 @@ filepath: index.md
 
 
 - **Tuesday, July 7 @ 2:00pm**
-  - [Watch Zoom Meeting](https://drive.google.com/drive/folders/1-z85eoW3Jtrgq4vTgSK2CnyFDUioa-Hx?usp=sharing)
+  - [Watch Zoom Meeting](https://drive.google.com/file/d/1dNpPJZKrBTTS3CYBlMg_kp7tbpvzb_cN/view?usp=sharing)
 
 
 
