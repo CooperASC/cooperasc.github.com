@@ -7,7 +7,7 @@ filepath: index.md
 
 <h1> This website is under construction. </h1>
 
-<h3> [Visit our Google Drive folder](https://drive.google.com/drive/folders/1CyBm0rkOotucb0MB5rOy7tP8oAHKrs0c?usp=sharing) </h3>
+[Visit our Google Drive folder](https://drive.google.com/drive/folders/1CyBm0rkOotucb0MB5rOy7tP8oAHKrs0c?usp=sharing)
 
 
 <h3> Upcoming Art Student Council Meetings </h3>
